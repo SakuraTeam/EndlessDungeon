@@ -1,0 +1,790 @@
+fileFormatVersion: 2
+guid: 3a6e1e3bcd364fe43a95d5617f19d0ef
+timeCreated: 18446744011573954816
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: archface001
+    100002: archface002
+    100004: archface003
+    100006: archface004
+    100008: archface005
+    100010: Auto_4
+    100012: cap2___x
+    100014: ceiling_y007
+    100016: ceiling_y031
+    100018: doorframe018
+    100020: floor___y
+    100022: floor___y001
+    100024: floor___y007
+    100026: floor___y017
+    100028: floor___y031
+    100030: floor___y032
+    100032: Object002
+    100034: Object003
+    100036: Object004
+    100038: Object005
+    100040: Object006
+    100042: Object007
+    100044: roofed_x007
+    100046: roofed_x008
+    100048: roofed_x025
+    100050: roofed_x027
+    100052: roofed_x030
+    100054: roofed_x031
+    100056: roofed_x033
+    100058: roofed_z002
+    100060: roofed_z008
+    100062: roofed_z024
+    100064: roofed_z026
+    100066: sewerarchf002
+    100068: //RootNode
+    100070: Trim1_cub001
+    100072: Trim1_cub018
+    100074: wall1___x
+    100076: wall1___x024
+    100078: wall1___x037
+    100080: wall2___z
+    100082: wall2___z003
+    100084: wall2___z009
+    100086: wall2___z010
+    100088: wall3___z001
+    100090: wall3___z002
+    100092: wall3___z005
+    100094: wall3___z007
+    100096: wall3___z009
+    100098: wall3___z010
+    100100: wall3___z013
+    100102: wall3___z014
+    100104: wall3___z015
+    100106: wall3___z019
+    100108: wall3___z028
+    100110: wall3___z031
+    100112: wall3___z037
+    100114: wall4___z
+    100116: wall4___z003
+    100118: wall4___z004
+    100120: wallcubic
+    100122: wallcubic002
+    100124: wallcubic003
+    100126: wallcubic004
+    100128: wallcubic005
+    100130: wallcubic007
+    100132: walltop001
+    100134: walltop002
+    100136: walltop003
+    100138: Entrance Outside
+    100140: Hall Arch Average
+    100142: Hall Arch Slim
+    100144: Hall Arch Wide
+    100146: Hall Door Frame Double
+    100148: Hall Door Frame Single
+    100150: Hall Large Endcap
+    100152: Hall Large Ramp
+    100154: Hall Large Stairs
+    100156: Hall Large Straight
+    100158: Hall Large T-Intersection
+    100160: Hall Large V-Intersection
+    100162: Hall Large X-Intersection
+    100164: Hall Small Endcap
+    100166: Hall Small Ramp
+    100168: Hall Small Stairs
+    100170: Hall Small Straight
+    100172: Hall Small T-Intersection
+    100174: Hall Small V-Intersection
+    100176: Hall Small X-Intersection
+    100178: Room 3m
+    100180: Room 5m
+    100182: Room 7m
+    100184: Room 7m 2-Entrance
+    100186: Room Center
+    100188: Room Corner Closed
+    100190: Room Corner Open
+    100192: Room Interior Arch Slim
+    100194: Room Interior Arch Wide
+    100196: Room Interior Door Frame Double
+    100198: Room Interior Door Frame Single
+    100200: Room Interior Pillar
+    100202: Room Interior Wall 4m
+    100204: Room Interior Wall 8m
+    100206: Room Wall Arch Average
+    100208: Room Wall Arch Slim
+    100210: Room Wall Arch Wide
+    100212: Room Wall Door Frame Double
+    100214: Room Wall Door Frame Single
+    100216: Room Wall Straight
+    100218: Room2x Center
+    100220: Room2x Corner Closed
+    100222: Room2x Corner Open
+    100224: Room2x Interior Arch Average
+    100226: Room2x Interior Arch Wide
+    100228: Room2x Interior Door Frame Double
+    100230: Room2x Interior Door Frame Single
+    100232: Room2x Interior Pillar
+    100234: Room2x Interior Wall 4m
+    100236: Room2x Interior Wall 8m
+    100238: Room2x Wall Arch Average
+    100240: Room2x Wall Arch Slim
+    100242: Room2x Wall Arch Wide
+    100244: Room2x Wall Door Frame Double
+    100246: Room2x Wall Door Frame Single
+    100248: Room2x Wall Door Frame Single High
+    100250: Room2x Wall Straight
+    100252: Stairs Freestanding
+    100254: Room2x Wall Arch Average High
+    100256: Room2x Wall Arch Slim High
+    100258: Room2x Wall Door Frame Double High
+    400000: archface001
+    400002: archface002
+    400004: archface003
+    400006: archface004
+    400008: archface005
+    400010: Auto_4
+    400012: cap2___x
+    400014: ceiling_y007
+    400016: ceiling_y031
+    400018: doorframe018
+    400020: floor___y
+    400022: floor___y001
+    400024: floor___y007
+    400026: floor___y017
+    400028: floor___y031
+    400030: floor___y032
+    400032: Object002
+    400034: Object003
+    400036: Object004
+    400038: Object005
+    400040: Object006
+    400042: Object007
+    400044: roofed_x007
+    400046: roofed_x008
+    400048: roofed_x025
+    400050: roofed_x027
+    400052: roofed_x030
+    400054: roofed_x031
+    400056: roofed_x033
+    400058: roofed_z002
+    400060: roofed_z008
+    400062: roofed_z024
+    400064: roofed_z026
+    400066: sewerarchf002
+    400068: //RootNode
+    400070: Trim1_cub001
+    400072: Trim1_cub018
+    400074: wall1___x
+    400076: wall1___x024
+    400078: wall1___x037
+    400080: wall2___z
+    400082: wall2___z003
+    400084: wall2___z009
+    400086: wall2___z010
+    400088: wall3___z001
+    400090: wall3___z002
+    400092: wall3___z005
+    400094: wall3___z007
+    400096: wall3___z009
+    400098: wall3___z010
+    400100: wall3___z013
+    400102: wall3___z014
+    400104: wall3___z015
+    400106: wall3___z019
+    400108: wall3___z028
+    400110: wall3___z031
+    400112: wall3___z037
+    400114: wall4___z
+    400116: wall4___z003
+    400118: wall4___z004
+    400120: wallcubic
+    400122: wallcubic002
+    400124: wallcubic003
+    400126: wallcubic004
+    400128: wallcubic005
+    400130: wallcubic007
+    400132: walltop001
+    400134: walltop002
+    400136: walltop003
+    400138: Entrance Outside
+    400140: Hall Arch Average
+    400142: Hall Arch Slim
+    400144: Hall Arch Wide
+    400146: Hall Door Frame Double
+    400148: Hall Door Frame Single
+    400150: Hall Large Endcap
+    400152: Hall Large Ramp
+    400154: Hall Large Stairs
+    400156: Hall Large Straight
+    400158: Hall Large T-Intersection
+    400160: Hall Large V-Intersection
+    400162: Hall Large X-Intersection
+    400164: Hall Small Endcap
+    400166: Hall Small Ramp
+    400168: Hall Small Stairs
+    400170: Hall Small Straight
+    400172: Hall Small T-Intersection
+    400174: Hall Small V-Intersection
+    400176: Hall Small X-Intersection
+    400178: Room 3m
+    400180: Room 5m
+    400182: Room 7m
+    400184: Room 7m 2-Entrance
+    400186: Room Center
+    400188: Room Corner Closed
+    400190: Room Corner Open
+    400192: Room Interior Arch Slim
+    400194: Room Interior Arch Wide
+    400196: Room Interior Door Frame Double
+    400198: Room Interior Door Frame Single
+    400200: Room Interior Pillar
+    400202: Room Interior Wall 4m
+    400204: Room Interior Wall 8m
+    400206: Room Wall Arch Average
+    400208: Room Wall Arch Slim
+    400210: Room Wall Arch Wide
+    400212: Room Wall Door Frame Double
+    400214: Room Wall Door Frame Single
+    400216: Room Wall Straight
+    400218: Room2x Center
+    400220: Room2x Corner Closed
+    400222: Room2x Corner Open
+    400224: Room2x Interior Arch Average
+    400226: Room2x Interior Arch Wide
+    400228: Room2x Interior Door Frame Double
+    400230: Room2x Interior Door Frame Single
+    400232: Room2x Interior Pillar
+    400234: Room2x Interior Wall 4m
+    400236: Room2x Interior Wall 8m
+    400238: Room2x Wall Arch Average
+    400240: Room2x Wall Arch Slim
+    400242: Room2x Wall Arch Wide
+    400244: Room2x Wall Door Frame Double
+    400246: Room2x Wall Door Frame Single
+    400248: Room2x Wall Door Frame Single High
+    400250: Room2x Wall Straight
+    400252: Stairs Freestanding
+    400254: Room2x Wall Arch Average High
+    400256: Room2x Wall Arch Slim High
+    400258: Room2x Wall Door Frame Double High
+    2300000: archface001
+    2300002: archface002
+    2300004: archface003
+    2300006: archface004
+    2300008: archface005
+    2300010: Auto_4
+    2300012: cap2___x
+    2300014: ceiling_y007
+    2300016: ceiling_y031
+    2300018: doorframe018
+    2300020: floor___y
+    2300022: floor___y001
+    2300024: floor___y007
+    2300026: floor___y017
+    2300028: floor___y031
+    2300030: floor___y032
+    2300032: Object002
+    2300034: Object003
+    2300036: Object004
+    2300038: Object005
+    2300040: Object006
+    2300042: Object007
+    2300044: roofed_x007
+    2300046: roofed_x008
+    2300048: roofed_x025
+    2300050: roofed_x027
+    2300052: roofed_x030
+    2300054: roofed_x031
+    2300056: roofed_x033
+    2300058: roofed_z002
+    2300060: roofed_z008
+    2300062: roofed_z026
+    2300064: sewerarchf002
+    2300066: Trim1_cub001
+    2300068: Trim1_cub018
+    2300070: wall1___x
+    2300072: wall1___x024
+    2300074: wall1___x037
+    2300076: wall2___z
+    2300078: wall2___z003
+    2300080: wall2___z009
+    2300082: wall3___z001
+    2300084: wall3___z002
+    2300086: wall3___z005
+    2300088: wall3___z007
+    2300090: wall3___z009
+    2300092: wall3___z010
+    2300094: wall3___z013
+    2300096: wall3___z014
+    2300098: wall3___z015
+    2300100: wall3___z019
+    2300102: wall3___z028
+    2300104: wall3___z031
+    2300106: wall3___z037
+    2300108: wall4___z
+    2300110: wall4___z003
+    2300112: wall4___z004
+    2300114: wallcubic
+    2300116: wallcubic002
+    2300118: wallcubic003
+    2300120: wallcubic004
+    2300122: wallcubic005
+    2300124: wallcubic007
+    2300126: walltop001
+    2300128: walltop002
+    2300130: walltop003
+    2300132: Entrance Outside
+    2300134: Hall Arch Average
+    2300136: Hall Arch Slim
+    2300138: Hall Arch Wide
+    2300140: Hall Door Frame Double
+    2300142: Hall Door Frame Single
+    2300144: Hall Large Endcap
+    2300146: Hall Large Ramp
+    2300148: Hall Large Stairs
+    2300150: Hall Large Straight
+    2300152: Hall Large T-Intersection
+    2300154: Hall Large V-Intersection
+    2300156: Hall Large X-Intersection
+    2300158: Hall Small Endcap
+    2300160: Hall Small Ramp
+    2300162: Hall Small Stairs
+    2300164: Hall Small Straight
+    2300166: Hall Small T-Intersection
+    2300168: Hall Small V-Intersection
+    2300170: Hall Small X-Intersection
+    2300172: Room 3m
+    2300174: Room 5m
+    2300176: Room 7m
+    2300178: Room 7m 2-Entrance
+    2300180: Room Center
+    2300182: Room Corner Closed
+    2300184: Room Corner Open
+    2300186: Room Interior Arch Slim
+    2300188: Room Interior Arch Wide
+    2300190: Room Interior Door Frame Double
+    2300192: Room Interior Door Frame Single
+    2300194: Room Interior Pillar
+    2300196: Room Interior Wall 4m
+    2300198: Room Interior Wall 8m
+    2300200: Room Wall Arch Average
+    2300202: Room Wall Arch Slim
+    2300204: Room Wall Arch Wide
+    2300206: Room Wall Door Frame Double
+    2300208: Room Wall Door Frame Single
+    2300210: Room Wall Straight
+    2300212: Room2x Center
+    2300214: Room2x Corner Closed
+    2300216: Room2x Corner Open
+    2300218: Room2x Interior Arch Average
+    2300220: Room2x Interior Arch Wide
+    2300222: Room2x Interior Door Frame Double
+    2300224: Room2x Interior Door Frame Single
+    2300226: Room2x Interior Pillar
+    2300228: Room2x Interior Wall 4m
+    2300230: Room2x Interior Wall 8m
+    2300232: Room2x Wall Arch Average
+    2300234: Room2x Wall Arch Slim
+    2300236: Room2x Wall Arch Wide
+    2300238: Room2x Wall Door Frame Double
+    2300240: Room2x Wall Door Frame Single
+    2300242: Room2x Wall Door Frame Single High
+    2300244: Room2x Wall Straight
+    2300246: Stairs Freestanding
+    2300248: //RootNode
+    2300250: Room2x Wall Arch Average High
+    2300252: Room2x Wall Arch Slim High
+    2300254: Room2x Wall Door Frame Double High
+    3300000: archface001
+    3300002: archface002
+    3300004: archface003
+    3300006: archface004
+    3300008: archface005
+    3300010: Auto_4
+    3300012: cap2___x
+    3300014: ceiling_y007
+    3300016: ceiling_y031
+    3300018: doorframe018
+    3300020: floor___y
+    3300022: floor___y001
+    3300024: floor___y007
+    3300026: floor___y017
+    3300028: floor___y031
+    3300030: floor___y032
+    3300032: Object002
+    3300034: Object003
+    3300036: Object004
+    3300038: Object005
+    3300040: Object006
+    3300042: Object007
+    3300044: roofed_x007
+    3300046: roofed_x008
+    3300048: roofed_x025
+    3300050: roofed_x027
+    3300052: roofed_x030
+    3300054: roofed_x031
+    3300056: roofed_x033
+    3300058: roofed_z002
+    3300060: roofed_z008
+    3300062: roofed_z026
+    3300064: sewerarchf002
+    3300066: Trim1_cub001
+    3300068: Trim1_cub018
+    3300070: wall1___x
+    3300072: wall1___x024
+    3300074: wall1___x037
+    3300076: wall2___z
+    3300078: wall2___z003
+    3300080: wall2___z009
+    3300082: wall3___z001
+    3300084: wall3___z002
+    3300086: wall3___z005
+    3300088: wall3___z007
+    3300090: wall3___z009
+    3300092: wall3___z010
+    3300094: wall3___z013
+    3300096: wall3___z014
+    3300098: wall3___z015
+    3300100: wall3___z019
+    3300102: wall3___z028
+    3300104: wall3___z031
+    3300106: wall3___z037
+    3300108: wall4___z
+    3300110: wall4___z003
+    3300112: wall4___z004
+    3300114: wallcubic
+    3300116: wallcubic002
+    3300118: wallcubic003
+    3300120: wallcubic004
+    3300122: wallcubic005
+    3300124: wallcubic007
+    3300126: walltop001
+    3300128: walltop002
+    3300130: walltop003
+    3300132: Entrance Outside
+    3300134: Hall Arch Average
+    3300136: Hall Arch Slim
+    3300138: Hall Arch Wide
+    3300140: Hall Door Frame Double
+    3300142: Hall Door Frame Single
+    3300144: Hall Large Endcap
+    3300146: Hall Large Ramp
+    3300148: Hall Large Stairs
+    3300150: Hall Large Straight
+    3300152: Hall Large T-Intersection
+    3300154: Hall Large V-Intersection
+    3300156: Hall Large X-Intersection
+    3300158: Hall Small Endcap
+    3300160: Hall Small Ramp
+    3300162: Hall Small Stairs
+    3300164: Hall Small Straight
+    3300166: Hall Small T-Intersection
+    3300168: Hall Small V-Intersection
+    3300170: Hall Small X-Intersection
+    3300172: Room 3m
+    3300174: Room 5m
+    3300176: Room 7m
+    3300178: Room 7m 2-Entrance
+    3300180: Room Center
+    3300182: Room Corner Closed
+    3300184: Room Corner Open
+    3300186: Room Interior Arch Slim
+    3300188: Room Interior Arch Wide
+    3300190: Room Interior Door Frame Double
+    3300192: Room Interior Door Frame Single
+    3300194: Room Interior Pillar
+    3300196: Room Interior Wall 4m
+    3300198: Room Interior Wall 8m
+    3300200: Room Wall Arch Average
+    3300202: Room Wall Arch Slim
+    3300204: Room Wall Arch Wide
+    3300206: Room Wall Door Frame Double
+    3300208: Room Wall Door Frame Single
+    3300210: Room Wall Straight
+    3300212: Room2x Center
+    3300214: Room2x Corner Closed
+    3300216: Room2x Corner Open
+    3300218: Room2x Interior Arch Average
+    3300220: Room2x Interior Arch Wide
+    3300222: Room2x Interior Door Frame Double
+    3300224: Room2x Interior Door Frame Single
+    3300226: Room2x Interior Pillar
+    3300228: Room2x Interior Wall 4m
+    3300230: Room2x Interior Wall 8m
+    3300232: Room2x Wall Arch Average
+    3300234: Room2x Wall Arch Slim
+    3300236: Room2x Wall Arch Wide
+    3300238: Room2x Wall Door Frame Double
+    3300240: Room2x Wall Door Frame Single
+    3300242: Room2x Wall Door Frame Single High
+    3300244: Room2x Wall Straight
+    3300246: Stairs Freestanding
+    3300248: //RootNode
+    3300250: Room2x Wall Arch Average High
+    3300252: Room2x Wall Arch Slim High
+    3300254: Room2x Wall Door Frame Double High
+    4300000: floor___y
+    4300002: floor___y001
+    4300004: wall1___x
+    4300006: walltop001
+    4300008: wall3___z001
+    4300010: walltop002
+    4300012: wall3___z002
+    4300014: roofed_z002
+    4300016: wallcubic002
+    4300018: wallcubic003
+    4300020: wallcubic004
+    4300022: wallcubic005
+    4300024: roofed_x007
+    4300026: wallcubic007
+    4300028: roofed_x008
+    4300030: floor___y007
+    4300032: ceiling_y007
+    4300034: wall3___z005
+    4300036: archface001
+    4300038: archface002
+    4300040: wall3___z007
+    4300042: roofed_z008
+    4300044: archface003
+    4300046: sewerarchf002
+    4300048: cap2___x
+    4300050: wallcubic
+    4300052: wall3___z009
+    4300054: wall3___z010
+    4300056: wall3___z013
+    4300058: wall3___z014
+    4300060: wall3___z015
+    4300062: floor___y017
+    4300064: wall2___z003
+    4300066: wall3___z019
+    4300068: ceiling_y031
+    4300070: wall2___z009
+    4300072: floor___y031
+    4300074: floor___y032
+    4300076: Trim1_cub018
+    4300078: wall2___z
+    4300080: wall1___x024
+    4300082: roofed_x025
+    4300084: wall3___z028
+    4300086: archface004
+    4300088: archface005
+    4300090: wall3___z031
+    4300092: walltop003
+    4300094: roofed_z026
+    4300096: roofed_x027
+    4300098: wall1___x037
+    4300100: wall3___z037
+    4300102: Object002
+    4300104: Object003
+    4300106: Object004
+    4300108: Object005
+    4300110: wall4___z
+    4300112: roofed_x030
+    4300114: roofed_x031
+    4300116: Trim1_cub001
+    4300118: wall4___z003
+    4300120: wall4___z004
+    4300122: doorframe018
+    4300124: roofed_x033
+    4300126: Object006
+    4300128: Object007
+    4300130: Auto_4
+    4300132: Hall Small X-Intersection
+    4300134: Hall Large X-Intersection
+    4300136: Room Interior Pillar
+    4300138: Room Interior Wall 4m
+    4300140: Room Interior Wall 8m
+    4300142: Room2x Interior Wall 8m
+    4300144: Hall Large T-Intersection
+    4300146: Hall Small T-Intersection
+    4300148: Hall Large V-Intersection
+    4300150: Hall Small V-Intersection
+    4300152: Hall Large Straight
+    4300154: Hall Small Straight
+    4300156: Hall Arch Wide
+    4300158: Room Wall Arch Wide
+    4300160: Hall Arch Slim
+    4300162: Hall Arch Average
+    4300164: Room2x Interior Arch Average
+    4300166: Room Wall Arch Slim
+    4300168: Room Wall Arch Average
+    4300170: Hall Large Endcap
+    4300172: Hall Small Endcap
+    4300174: Hall Door Frame Single
+    4300176: Room Wall Door Frame Single
+    4300178: Room Interior Door Frame Single
+    4300180: Room2x Interior Door Frame Single
+    4300182: Hall Door Frame Double
+    4300184: Room2x Center
+    4300186: Room2x Corner Open
+    4300188: Room Wall Door Frame Double
+    4300190: Room Center
+    4300192: Room Corner Open
+    4300194: Room Corner Closed
+    4300196: Room Wall Straight
+    4300198: Room Interior Door Frame Double
+    4300200: Room2x Corner Closed
+    4300202: Room2x Wall Straight
+    4300204: Room2x Interior Wall 4m
+    4300206: Room Interior Arch Wide
+    4300208: Room Interior Arch Slim
+    4300210: Room2x Interior Pillar
+    4300212: Room2x Interior Door Frame Double
+    4300214: Room2x Interior Arch Wide
+    4300216: Room2x Wall Door Frame Double
+    4300218: Room2x Wall Door Frame Single High
+    4300220: Room2x Wall Arch Wide
+    4300222: Room2x Wall Arch Average
+    4300224: Room2x Wall Arch Slim
+    4300226: Room2x Wall Door Frame Single
+    4300228: Room 7m 2-Entrance
+    4300230: Hall Large Stairs
+    4300232: Hall Large Ramp
+    4300234: Room 3m
+    4300236: Room 5m
+    4300238: Room 7m
+    4300240: Hall Small Ramp
+    4300242: Stairs Freestanding
+    4300244: Hall Small Stairs
+    4300246: Entrance Outside
+    4300248: Room2x Wall Arch Slim High
+    4300250: Room2x Wall Arch Average High
+    4300252: Room2x Wall Door Frame Double High
+    6400000: Entrance Outside
+    6400002: Hall Arch Average
+    6400004: Hall Arch Slim
+    6400006: Hall Arch Wide
+    6400008: Hall Door Frame Double
+    6400010: Hall Door Frame Single
+    6400012: Hall Large Endcap
+    6400014: Hall Large Ramp
+    6400016: Hall Large Stairs
+    6400018: Hall Large Straight
+    6400020: Hall Large T-Intersection
+    6400022: Hall Large V-Intersection
+    6400024: Hall Large X-Intersection
+    6400026: Hall Small Endcap
+    6400028: Hall Small Ramp
+    6400030: Hall Small Stairs
+    6400032: Hall Small Straight
+    6400034: Hall Small T-Intersection
+    6400036: Hall Small V-Intersection
+    6400038: Hall Small X-Intersection
+    6400040: Room 3m
+    6400042: Room 5m
+    6400044: Room 7m
+    6400046: Room 7m 2-Entrance
+    6400048: Room Center
+    6400050: Room Corner Closed
+    6400052: Room Corner Open
+    6400054: Room Interior Arch Slim
+    6400056: Room Interior Arch Wide
+    6400058: Room Interior Door Frame Double
+    6400060: Room Interior Door Frame Single
+    6400062: Room Interior Pillar
+    6400064: Room Interior Wall 4m
+    6400066: Room Interior Wall 8m
+    6400068: Room Wall Arch Average
+    6400070: Room Wall Arch Slim
+    6400072: Room Wall Arch Wide
+    6400074: Room Wall Door Frame Double
+    6400076: Room Wall Door Frame Single
+    6400078: Room Wall Straight
+    6400080: Room2x Center
+    6400082: Room2x Corner Closed
+    6400084: Room2x Corner Open
+    6400086: Room2x Interior Arch Average
+    6400088: Room2x Interior Arch Wide
+    6400090: Room2x Interior Door Frame Double
+    6400092: Room2x Interior Door Frame Single
+    6400094: Room2x Interior Pillar
+    6400096: Room2x Interior Wall 4m
+    6400098: Room2x Interior Wall 8m
+    6400100: Room2x Wall Arch Average
+    6400102: Room2x Wall Arch Slim
+    6400104: Room2x Wall Arch Wide
+    6400106: Room2x Wall Door Frame Double
+    6400108: Room2x Wall Door Frame Single
+    6400110: Room2x Wall Door Frame Single High
+    6400112: Room2x Wall Straight
+    6400114: Stairs Freestanding
+    6400116: Room2x Wall Arch Average High
+    6400118: Room2x Wall Arch Slim High
+    6400120: Room2x Wall Door Frame Double High
+    9500000: //RootNode
+    11400000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

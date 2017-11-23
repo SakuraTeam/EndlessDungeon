@@ -1,0 +1,1716 @@
+fileFormatVersion: 2
+guid: 6f3fc9839a0ffcf47a96e89c53fd01c8
+timeCreated: 18446744011573954816
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: port_Cave Column Slim
+    100002: port_Cave Column Wide
+    100004: port_Cave Column2x Slim
+    100006: port_Cave Column2x Slim001
+    100008: port_Cave Column2x Slim002
+    100010: port_Cave Column2x Slim003
+    100012: port_Cave Column2x Slim004
+    100014: port_Cave Column2x Wide
+    100016: port_Cave Column2x Wide001
+    100018: port_Cave Column2x Wide002
+    100020: port_Cave Column2x Wide003
+    100022: port_Cave Column2x Wide004
+    100024: port_Cave Column2x Wide005
+    100026: port_Cave Column2x Wide006
+    100028: port_Cave Column2x Wide007
+    100030: port_Cave Flowstone 002
+    100032: port_Cave Flowstone 003
+    100034: port_Cave Flowstone 004
+    100036: port_Cave Flowstone 005
+    100038: port_Cave Flowstone 006
+    100040: port_Cave Flowstone 007
+    100042: port_Cave Flowstone 01
+    100044: port_Cave Flowstone 02
+    100046: port_cave Hall Endcap
+    100048: port_cave Hall Endcap001
+    100050: port_cave Hall Ramp
+    100052: port_cave Hall Ramp001
+    100054: port_cave Hall Straight
+    100056: port_cave Hall Straight001
+    100058: port_cave Hall Straight002
+    100060: port_cave Hall Straight004
+    100062: port_cave Hall Straight006
+    100064: port_cave Hall Straight009
+    100066: port_cave Hall Straight010
+    100068: port_cave Hall Straight011
+    100070: port_cave Hall T-Intersection007
+    100072: port_cave Hall T-Intersection008
+    100074: port_cave Hall T-Intersection009
+    100076: port_cave Hall T-Intersection010
+    100078: port_cave Hall T-Intersection011
+    100080: port_cave Hall T-Intersection012
+    100082: port_cave Hall T-Intersection013
+    100084: port_cave Hall to Passage Straight
+    100086: port_cave Hall to Passage Straight001
+    100088: port_cave Hall to Passage Straight002
+    100090: port_cave Hall to Passage Straight003
+    100092: port_cave Hall to Passage Straight004
+    100094: port_cave Hall to Passage Straight005
+    100096: port_cave Hall to Passage V-Intersection001
+    100098: port_cave Hall V-Intersection
+    100100: port_cave Hall V-Intersection001
+    100102: port_cave Hall V-Intersection003
+    100104: port_cave Hall V-Intersection004
+    100106: port_cave Hall V-Intersection005
+    100108: port_cave Hall V-Intersection006
+    100110: port_cave Hall V-Intersection007
+    100112: port_cave Hall V-Intersection008
+    100114: port_cave Hall X-Intersection009
+    100116: port_cave Hall X-Intersection010
+    100118: port_cave Passage Ramp
+    100120: port_cave Passage Ramp001
+    100122: port_cave Passage Straight
+    100124: port_cave Passage Straight002
+    100126: port_cave Passage Straight003
+    100128: port_cave Passage Straight004
+    100130: port_cave Passage T-Intersection001
+    100132: port_cave Passage T-Intersection002
+    100134: port_cave Passage T-Intersection003
+    100136: port_cave Passage to Hall V-Intersection
+    100138: port_cave Passage to Hall V-Intersection001
+    100140: port_cave Passage to Hall V-Intersection002
+    100142: port_cave Passage V-Intersection
+    100144: port_cave Passage V-Intersection001
+    100146: port_cave Passage V-Intersection002
+    100148: port_cave Passage V-Intersection003
+    100150: port_cave Passage V-Intersection005
+    100152: port_cave Passage V-Intersection006
+    100154: port_cave Passage V-Intersection007
+    100156: port_cave Passage V-Intersection008
+    100158: port_cave Passage V-Intersection009
+    100160: port_cave Passage X-Intersection
+    100162: port_cave Passage X-Intersection001
+    100164: port_cave Passagel Endcap001
+    100166: port_cave Passagel Endcap002
+    100168: port_cave Room 13m Left Hall Entrance
+    100170: port_cave Room 13m Left Passage Entrance
+    100172: port_cave Room 13m Right Hall Entrance
+    100174: port_cave Room 13m Right Passage Entrance
+    100176: port_cave Room Center
+    100178: port_cave Room Center001
+    100180: port_cave Room Center002
+    100182: port_cave Room Center003
+    100184: port_cave Room Center004
+    100186: port_cave Room Center005
+    100188: port_cave Room Center006
+    100190: port_cave Room Center007
+    100192: port_cave Room Center008
+    100194: port_cave Room Corner Closed
+    100196: port_cave Room Corner Open
+    100198: port_cave Room Corner Open001
+    100200: port_cave Room River Exit
+    100202: port_cave Room River Trench Bend Closed
+    100204: port_cave Room River Trench Bend Open
+    100206: port_cave Room River Trench Center
+    100208: port_cave Room River Trench Straight
+    100210: port_cave Room Wall Corner Left to Hall
+    100212: port_cave Room Wall Corner Left to Passage
+    100214: port_cave Room Wall Corner Right to Hall
+    100216: port_cave Room Wall Corner Right to Passage
+    100218: port_cave Room Wall Corner to Passage001
+    100220: port_cave Room Wall Corner to Passage002
+    100222: port_cave Room Wall Straight
+    100224: port_cave Room Wall Straight to Hall
+    100226: port_cave Room Wall Straight to Hall 001
+    100228: port_cave Room Wall Straight to Passage
+    100230: port_cave Room Wall Straight001
+    100232: port_cave Room Wall Straight003
+    100234: port_cave Room Wall Straight005
+    100236: port_cave Room Wall Straight006
+    100238: port_cave Room2x Center
+    100240: port_cave Room2x Center001
+    100242: port_cave Room2x Center002
+    100244: port_cave Room2x Center003
+    100246: port_cave Room2x Center004
+    100248: port_cave Room2x Center005
+    100250: port_cave Room2x Center006
+    100252: port_cave Room2x Center007
+    100254: port_cave Room2x Center008
+    100256: port_cave Room2x Center009
+    100258: port_cave Room2x Center010
+    100260: port_cave Room2x Center011
+    100262: port_cave Room2x Center012
+    100264: port_cave Room2x Center013
+    100266: port_cave Room2x Center030
+    100268: port_cave Room2x Center044
+    100270: port_cave Room2x Center045
+    100272: port_cave Room2x Center051
+    100274: port_cave Room2x Center052
+    100276: port_cave Room2x Corner Closed
+    100278: port_cave Room2x Corner Closed002
+    100280: port_cave Room2x Corner Closed003
+    100282: port_cave Room2x Corner Closed007
+    100284: port_cave Room2x Corner Closed008
+    100286: port_cave Room2x Corner Closed009
+    100288: port_cave Room2x Corner Closed010
+    100290: port_cave Room2x Corner Closed011
+    100292: port_cave Room2x Corner Open
+    100294: port_cave Room2x Corner Open001
+    100296: port_cave Room2x Corner Open002
+    100298: port_cave Room2x Corner Open003
+    100300: port_cave Room2x Corner Open004
+    100302: port_cave Room2x Corner Open005
+    100304: port_cave Room2x Corner Open006
+    100306: port_cave Room2x Corner Open008
+    100308: port_cave Room2x Corner Open010
+    100310: port_cave Room2x Corner Open011
+    100312: port_cave Room2x Corner Open012
+    100314: port_cave Room2x River Exit
+    100316: port_cave Room2x River Exit001
+    100318: port_cave Room2x River Exit002
+    100320: port_cave Room2x River Trench Bend Closed
+    100322: port_cave Room2x River Trench Bend Closed002
+    100324: port_cave Room2x River Trench Bend Closed003
+    100326: port_cave Room2x River Trench Bend Closed004
+    100328: port_cave Room2x River Trench Bend Closed005
+    100330: port_cave Room2x River Trench Bend Closed006
+    100332: port_cave Room2x River Trench Bend Closed007
+    100334: port_cave Room2x River Trench Bend Open
+    100336: port_cave Room2x River Trench Bend Open002
+    100338: port_cave Room2x River Trench Bend Open003
+    100340: port_cave Room2x River Trench Bend Open004
+    100342: port_cave Room2x River Trench Bend Open005
+    100344: port_cave Room2x River Trench Bend Open006
+    100346: port_cave Room2x River Trench Bend Open007
+    100348: port_cave Room2x River Trench Bend Open008
+    100350: port_cave Room2x River Trench Bend Open009
+    100352: port_cave Room2x River Trench Bend Open010
+    100354: port_cave Room2x River Trench Center
+    100356: port_cave Room2x River Trench Straight
+    100358: port_cave Room2x River Trench Straight002
+    100360: port_cave Room2x River Trench Straight003
+    100362: port_cave Room2x River Trench Straight004
+    100364: port_cave Room2x River Trench Straight005
+    100366: port_cave Room2x River Trench Straight006
+    100368: port_cave Room2x River Trench Straight007
+    100370: port_cave Room2x River Trench Straight008
+    100372: port_cave Room2x River Trench Straight009
+    100374: port_cave Room2x Wall Corner Left to Hall High
+    100376: port_cave Room2x Wall Corner Left to Passage
+    100378: port_cave Room2x Wall Corner Left to Passage High
+    100380: port_cave Room2x Wall Corner Right to Hall
+    100382: port_cave Room2x Wall Corner Right to Hall High
+    100384: port_cave Room2x Wall Corner Right to Hall High001
+    100386: port_cave Room2x Wall Corner Right to Hall001
+    100388: port_cave Room2x Wall Corner Right to Passage
+    100390: port_cave Room2x Wall Corner Right to Passage High
+    100392: port_cave Room2x Wall Corner to Hall001
+    100394: port_cave Room2x Wall Corner to Passage001
+    100396: port_cave Room2x Wall CornerLeft to Hall
+    100398: port_cave Room2x Wall CornerLeft to Hall001
+    100400: port_cave Room2x Wall Straight
+    100402: port_cave Room2x Wall Straight to Hall
+    100404: port_cave Room2x Wall Straight to Hall High
+    100406: port_cave Room2x Wall Straight to Passage
+    100408: port_cave Room2x Wall Straight to Passage High
+    100410: port_cave Room2x Wall Straight to Passage High001
+    100412: port_cave Room2x Wall Straight001
+    100414: port_cave Room2x Wall Straight003
+    100416: port_cave Room2x Wall Straight004
+    100418: port_cave Room2x Wall Straight010
+    100420: port_cave Room2x Wall Straight011
+    100422: port_cave Room2x Wall Straight012
+    100424: port_cave Room2x Wall Straight013
+    100426: port_cave Room2x Wall Straight014
+    100428: port_cave Room2x Wall Straight015
+    100430: port_cave Room2x Wall Straight016
+    100432: port_cave Room2x Wall Straight017
+    100434: port_Cave Water river
+    100436: port_Cave Water river009
+    100438: //RootNode
+    100440: port_Hall Straight001
+    100442: port_Rimstone Flowstone Pedestal 01
+    100444: port_Rimstone Flowstone Pedestal 01 water
+    100446: port_Rimstone Pool 003
+    100448: port_Rimstone Pool 004
+    100450: port_Rimstone Pool 005
+    100452: port_Rimstone Pool 006
+    100454: port_Rimstone Pool 007
+    100456: port_Rimstone Pool 008
+    100458: port_Rimstone Pool 009
+    100460: port_Rimstone Pool 01
+    100462: port_Rimstone Pool 01 water
+    100464: port_Rimstone Pool 011
+    100466: port_Rimstone Pool 012
+    100468: port_Rimstone Pool 013
+    100470: port_Rimstone Pool 014
+    100472: port_Rimstone Pool 015
+    100474: port_Rimstone Pool 016
+    100476: port_Rimstone Pool 017
+    100478: port_Rimstone Pool 018
+    100480: port_Rimstone Pool 019
+    100482: port_Rimstone Pool 02
+    100484: port_Rimstone Pool 02 Water
+    100486: port_Rimstone Pool 02 Water001
+    100488: port_Rimstone Pool 02 Water002
+    100490: port_Rimstone Pool 02 Water003
+    100492: port_Rimstone Pool 02 Water004
+    100494: port_Rimstone Pool 02 Water005
+    100496: port_Rimstone Pool 02 Water006
+    100498: port_Rimstone Pool 02 Water007
+    100500: port_Rimstone Pool 02 Water009
+    100502: port_Rimstone Pool 02 Water010
+    100504: port_Rimstone Pool 02 Water011
+    100506: port_Rimstone Pool 02 Water012
+    100508: port_Rimstone Pool 02 Water013
+    100510: port_Rimstone Pool 02 Water014
+    100512: port_Rimstone Pool 02 Water015
+    100514: port_Rimstone Pool 02 Water016
+    100516: port_Rimstone Pool 02 Water017
+    100518: port_Rimstone Pool 02 Water018
+    100520: port_Rimstone Pool 02 Water019
+    100522: port_Rimstone Pool 020
+    100524: port_Rimstone Pool 021
+    100526: port_cave Hall T-Intersection
+    100528: port_cave Hall to Passage V-Intersection
+    100530: port_cave Hall X-Intersection
+    100532: port_cave Passage Endcap
+    100534: port_cave Passage T-Intersection
+    100536: port_cave Bridge narrow
+    100538: port_cave Hall Stairs
+    100540: port_cave Passage Stairs
+    100542: port_cave Room Contour Addition 01
+    100544: port_cave Room Contour Addition 02
+    100546: port_cave Room Interior Arch 01
+    100548: port_cave Room Interior Wall 8m 01
+    100550: port_cave Room Interior Wall 8m 02
+    100552: port_cave Room Raised Platform 01
+    100554: port_cave Room Raised Platform 02
+    100556: port_cave Room2x Contour Addition 01
+    100558: port_cave Room2x Contour Addition 02
+    100560: port_cave Room2x Flowstone Stairs Corner Left
+    100562: port_cave Room2x Flowstone Stairs Corner Left Water Object
+    100564: port_cave Room2x Flowstone Stairs Corner Right
+    100566: port_cave Room2x Flowstone Stairs Corner Right Collision Object
+    100568: port_cave Room2x Flowstone Stairs Corner Right Water Object
+    100570: port_cave Room2x Flowstone Stairs Straight
+    100572: port_cave Room2x Interior Arch
+    100574: port_cave Room2x Interior Wall 8m 01
+    100576: port_cave Room2x Interior Wall 8m 02
+    100578: port_cave_Column_plain_large
+    100580: port_cave_Column_plain_small
+    100582: port_Rimstone Flowstone Pedestal 01 river
+    100584: port_Rimstone Flowstone Pedestal 02
+    100586: port_Rimstone Pool 01 river
+    100588: port_Rimstone Pool 01 river Water Object
+    100590: port_Rimstone Pool 01 Water Object
+    100592: port_Rimstone Pool 02 Water Object
+    100594: port_Rimstone Pool 03
+    100596: port_Rimstone Pool 03 Water Object
+    100598: port_Stalactite_and_Stalagmite_combo_large
+    100600: port_Stalactite_and_Stalagmite_combo_small
+    100602: port_Stalactite_large
+    100604: port_Stalactite_small
+    100606: port_Stalagmite_large
+    100608: port_Stalagmite_small
+    400000: port_Cave Column Slim
+    400002: port_Cave Column Wide
+    400004: port_Cave Column2x Slim
+    400006: port_Cave Column2x Slim001
+    400008: port_Cave Column2x Slim002
+    400010: port_Cave Column2x Slim003
+    400012: port_Cave Column2x Slim004
+    400014: port_Cave Column2x Wide
+    400016: port_Cave Column2x Wide001
+    400018: port_Cave Column2x Wide002
+    400020: port_Cave Column2x Wide003
+    400022: port_Cave Column2x Wide004
+    400024: port_Cave Column2x Wide005
+    400026: port_Cave Column2x Wide006
+    400028: port_Cave Column2x Wide007
+    400030: port_Cave Flowstone 002
+    400032: port_Cave Flowstone 003
+    400034: port_Cave Flowstone 004
+    400036: port_Cave Flowstone 005
+    400038: port_Cave Flowstone 006
+    400040: port_Cave Flowstone 007
+    400042: port_Cave Flowstone 01
+    400044: port_Cave Flowstone 02
+    400046: port_cave Hall Endcap
+    400048: port_cave Hall Endcap001
+    400050: port_cave Hall Ramp
+    400052: port_cave Hall Ramp001
+    400054: port_cave Hall Straight
+    400056: port_cave Hall Straight001
+    400058: port_cave Hall Straight002
+    400060: port_cave Hall Straight004
+    400062: port_cave Hall Straight006
+    400064: port_cave Hall Straight009
+    400066: port_cave Hall Straight010
+    400068: port_cave Hall Straight011
+    400070: port_cave Hall T-Intersection007
+    400072: port_cave Hall T-Intersection008
+    400074: port_cave Hall T-Intersection009
+    400076: port_cave Hall T-Intersection010
+    400078: port_cave Hall T-Intersection011
+    400080: port_cave Hall T-Intersection012
+    400082: port_cave Hall T-Intersection013
+    400084: port_cave Hall to Passage Straight
+    400086: port_cave Hall to Passage Straight001
+    400088: port_cave Hall to Passage Straight002
+    400090: port_cave Hall to Passage Straight003
+    400092: port_cave Hall to Passage Straight004
+    400094: port_cave Hall to Passage Straight005
+    400096: port_cave Hall to Passage V-Intersection001
+    400098: port_cave Hall V-Intersection
+    400100: port_cave Hall V-Intersection001
+    400102: port_cave Hall V-Intersection003
+    400104: port_cave Hall V-Intersection004
+    400106: port_cave Hall V-Intersection005
+    400108: port_cave Hall V-Intersection006
+    400110: port_cave Hall V-Intersection007
+    400112: port_cave Hall V-Intersection008
+    400114: port_cave Hall X-Intersection009
+    400116: port_cave Hall X-Intersection010
+    400118: port_cave Passage Ramp
+    400120: port_cave Passage Ramp001
+    400122: port_cave Passage Straight
+    400124: port_cave Passage Straight002
+    400126: port_cave Passage Straight003
+    400128: port_cave Passage Straight004
+    400130: port_cave Passage T-Intersection001
+    400132: port_cave Passage T-Intersection002
+    400134: port_cave Passage T-Intersection003
+    400136: port_cave Passage to Hall V-Intersection
+    400138: port_cave Passage to Hall V-Intersection001
+    400140: port_cave Passage to Hall V-Intersection002
+    400142: port_cave Passage V-Intersection
+    400144: port_cave Passage V-Intersection001
+    400146: port_cave Passage V-Intersection002
+    400148: port_cave Passage V-Intersection003
+    400150: port_cave Passage V-Intersection005
+    400152: port_cave Passage V-Intersection006
+    400154: port_cave Passage V-Intersection007
+    400156: port_cave Passage V-Intersection008
+    400158: port_cave Passage V-Intersection009
+    400160: port_cave Passage X-Intersection
+    400162: port_cave Passage X-Intersection001
+    400164: port_cave Passagel Endcap001
+    400166: port_cave Passagel Endcap002
+    400168: port_cave Room 13m Left Hall Entrance
+    400170: port_cave Room 13m Left Passage Entrance
+    400172: port_cave Room 13m Right Hall Entrance
+    400174: port_cave Room 13m Right Passage Entrance
+    400176: port_cave Room Center
+    400178: port_cave Room Center001
+    400180: port_cave Room Center002
+    400182: port_cave Room Center003
+    400184: port_cave Room Center004
+    400186: port_cave Room Center005
+    400188: port_cave Room Center006
+    400190: port_cave Room Center007
+    400192: port_cave Room Center008
+    400194: port_cave Room Corner Closed
+    400196: port_cave Room Corner Open
+    400198: port_cave Room Corner Open001
+    400200: port_cave Room River Exit
+    400202: port_cave Room River Trench Bend Closed
+    400204: port_cave Room River Trench Bend Open
+    400206: port_cave Room River Trench Center
+    400208: port_cave Room River Trench Straight
+    400210: port_cave Room Wall Corner Left to Hall
+    400212: port_cave Room Wall Corner Left to Passage
+    400214: port_cave Room Wall Corner Right to Hall
+    400216: port_cave Room Wall Corner Right to Passage
+    400218: port_cave Room Wall Corner to Passage001
+    400220: port_cave Room Wall Corner to Passage002
+    400222: port_cave Room Wall Straight
+    400224: port_cave Room Wall Straight to Hall
+    400226: port_cave Room Wall Straight to Hall 001
+    400228: port_cave Room Wall Straight to Passage
+    400230: port_cave Room Wall Straight001
+    400232: port_cave Room Wall Straight003
+    400234: port_cave Room Wall Straight005
+    400236: port_cave Room Wall Straight006
+    400238: port_cave Room2x Center
+    400240: port_cave Room2x Center001
+    400242: port_cave Room2x Center002
+    400244: port_cave Room2x Center003
+    400246: port_cave Room2x Center004
+    400248: port_cave Room2x Center005
+    400250: port_cave Room2x Center006
+    400252: port_cave Room2x Center007
+    400254: port_cave Room2x Center008
+    400256: port_cave Room2x Center009
+    400258: port_cave Room2x Center010
+    400260: port_cave Room2x Center011
+    400262: port_cave Room2x Center012
+    400264: port_cave Room2x Center013
+    400266: port_cave Room2x Center030
+    400268: port_cave Room2x Center044
+    400270: port_cave Room2x Center045
+    400272: port_cave Room2x Center051
+    400274: port_cave Room2x Center052
+    400276: port_cave Room2x Corner Closed
+    400278: port_cave Room2x Corner Closed002
+    400280: port_cave Room2x Corner Closed003
+    400282: port_cave Room2x Corner Closed007
+    400284: port_cave Room2x Corner Closed008
+    400286: port_cave Room2x Corner Closed009
+    400288: port_cave Room2x Corner Closed010
+    400290: port_cave Room2x Corner Closed011
+    400292: port_cave Room2x Corner Open
+    400294: port_cave Room2x Corner Open001
+    400296: port_cave Room2x Corner Open002
+    400298: port_cave Room2x Corner Open003
+    400300: port_cave Room2x Corner Open004
+    400302: port_cave Room2x Corner Open005
+    400304: port_cave Room2x Corner Open006
+    400306: port_cave Room2x Corner Open008
+    400308: port_cave Room2x Corner Open010
+    400310: port_cave Room2x Corner Open011
+    400312: port_cave Room2x Corner Open012
+    400314: port_cave Room2x River Exit
+    400316: port_cave Room2x River Exit001
+    400318: port_cave Room2x River Exit002
+    400320: port_cave Room2x River Trench Bend Closed
+    400322: port_cave Room2x River Trench Bend Closed002
+    400324: port_cave Room2x River Trench Bend Closed003
+    400326: port_cave Room2x River Trench Bend Closed004
+    400328: port_cave Room2x River Trench Bend Closed005
+    400330: port_cave Room2x River Trench Bend Closed006
+    400332: port_cave Room2x River Trench Bend Closed007
+    400334: port_cave Room2x River Trench Bend Open
+    400336: port_cave Room2x River Trench Bend Open002
+    400338: port_cave Room2x River Trench Bend Open003
+    400340: port_cave Room2x River Trench Bend Open004
+    400342: port_cave Room2x River Trench Bend Open005
+    400344: port_cave Room2x River Trench Bend Open006
+    400346: port_cave Room2x River Trench Bend Open007
+    400348: port_cave Room2x River Trench Bend Open008
+    400350: port_cave Room2x River Trench Bend Open009
+    400352: port_cave Room2x River Trench Bend Open010
+    400354: port_cave Room2x River Trench Center
+    400356: port_cave Room2x River Trench Straight
+    400358: port_cave Room2x River Trench Straight002
+    400360: port_cave Room2x River Trench Straight003
+    400362: port_cave Room2x River Trench Straight004
+    400364: port_cave Room2x River Trench Straight005
+    400366: port_cave Room2x River Trench Straight006
+    400368: port_cave Room2x River Trench Straight007
+    400370: port_cave Room2x River Trench Straight008
+    400372: port_cave Room2x River Trench Straight009
+    400374: port_cave Room2x Wall Corner Left to Hall High
+    400376: port_cave Room2x Wall Corner Left to Passage
+    400378: port_cave Room2x Wall Corner Left to Passage High
+    400380: port_cave Room2x Wall Corner Right to Hall
+    400382: port_cave Room2x Wall Corner Right to Hall High
+    400384: port_cave Room2x Wall Corner Right to Hall High001
+    400386: port_cave Room2x Wall Corner Right to Hall001
+    400388: port_cave Room2x Wall Corner Right to Passage
+    400390: port_cave Room2x Wall Corner Right to Passage High
+    400392: port_cave Room2x Wall Corner to Hall001
+    400394: port_cave Room2x Wall Corner to Passage001
+    400396: port_cave Room2x Wall CornerLeft to Hall
+    400398: port_cave Room2x Wall CornerLeft to Hall001
+    400400: port_cave Room2x Wall Straight
+    400402: port_cave Room2x Wall Straight to Hall
+    400404: port_cave Room2x Wall Straight to Hall High
+    400406: port_cave Room2x Wall Straight to Passage
+    400408: port_cave Room2x Wall Straight to Passage High
+    400410: port_cave Room2x Wall Straight to Passage High001
+    400412: port_cave Room2x Wall Straight001
+    400414: port_cave Room2x Wall Straight003
+    400416: port_cave Room2x Wall Straight004
+    400418: port_cave Room2x Wall Straight010
+    400420: port_cave Room2x Wall Straight011
+    400422: port_cave Room2x Wall Straight012
+    400424: port_cave Room2x Wall Straight013
+    400426: port_cave Room2x Wall Straight014
+    400428: port_cave Room2x Wall Straight015
+    400430: port_cave Room2x Wall Straight016
+    400432: port_cave Room2x Wall Straight017
+    400434: port_Cave Water river
+    400436: port_Cave Water river009
+    400438: //RootNode
+    400440: port_Hall Straight001
+    400442: port_Rimstone Flowstone Pedestal 01
+    400444: port_Rimstone Flowstone Pedestal 01 water
+    400446: port_Rimstone Pool 003
+    400448: port_Rimstone Pool 004
+    400450: port_Rimstone Pool 005
+    400452: port_Rimstone Pool 006
+    400454: port_Rimstone Pool 007
+    400456: port_Rimstone Pool 008
+    400458: port_Rimstone Pool 009
+    400460: port_Rimstone Pool 01
+    400462: port_Rimstone Pool 01 water
+    400464: port_Rimstone Pool 011
+    400466: port_Rimstone Pool 012
+    400468: port_Rimstone Pool 013
+    400470: port_Rimstone Pool 014
+    400472: port_Rimstone Pool 015
+    400474: port_Rimstone Pool 016
+    400476: port_Rimstone Pool 017
+    400478: port_Rimstone Pool 018
+    400480: port_Rimstone Pool 019
+    400482: port_Rimstone Pool 02
+    400484: port_Rimstone Pool 02 Water
+    400486: port_Rimstone Pool 02 Water001
+    400488: port_Rimstone Pool 02 Water002
+    400490: port_Rimstone Pool 02 Water003
+    400492: port_Rimstone Pool 02 Water004
+    400494: port_Rimstone Pool 02 Water005
+    400496: port_Rimstone Pool 02 Water006
+    400498: port_Rimstone Pool 02 Water007
+    400500: port_Rimstone Pool 02 Water009
+    400502: port_Rimstone Pool 02 Water010
+    400504: port_Rimstone Pool 02 Water011
+    400506: port_Rimstone Pool 02 Water012
+    400508: port_Rimstone Pool 02 Water013
+    400510: port_Rimstone Pool 02 Water014
+    400512: port_Rimstone Pool 02 Water015
+    400514: port_Rimstone Pool 02 Water016
+    400516: port_Rimstone Pool 02 Water017
+    400518: port_Rimstone Pool 02 Water018
+    400520: port_Rimstone Pool 02 Water019
+    400522: port_Rimstone Pool 020
+    400524: port_Rimstone Pool 021
+    400526: port_cave Hall T-Intersection
+    400528: port_cave Hall to Passage V-Intersection
+    400530: port_cave Hall X-Intersection
+    400532: port_cave Passage Endcap
+    400534: port_cave Passage T-Intersection
+    400536: port_cave Bridge narrow
+    400538: port_cave Hall Stairs
+    400540: port_cave Passage Stairs
+    400542: port_cave Room Contour Addition 01
+    400544: port_cave Room Contour Addition 02
+    400546: port_cave Room Interior Arch 01
+    400548: port_cave Room Interior Wall 8m 01
+    400550: port_cave Room Interior Wall 8m 02
+    400552: port_cave Room Raised Platform 01
+    400554: port_cave Room Raised Platform 02
+    400556: port_cave Room2x Contour Addition 01
+    400558: port_cave Room2x Contour Addition 02
+    400560: port_cave Room2x Flowstone Stairs Corner Left
+    400562: port_cave Room2x Flowstone Stairs Corner Left Water Object
+    400564: port_cave Room2x Flowstone Stairs Corner Right
+    400566: port_cave Room2x Flowstone Stairs Corner Right Collision Object
+    400568: port_cave Room2x Flowstone Stairs Corner Right Water Object
+    400570: port_cave Room2x Flowstone Stairs Straight
+    400572: port_cave Room2x Interior Arch
+    400574: port_cave Room2x Interior Wall 8m 01
+    400576: port_cave Room2x Interior Wall 8m 02
+    400578: port_cave_Column_plain_large
+    400580: port_cave_Column_plain_small
+    400582: port_Rimstone Flowstone Pedestal 01 river
+    400584: port_Rimstone Flowstone Pedestal 02
+    400586: port_Rimstone Pool 01 river
+    400588: port_Rimstone Pool 01 river Water Object
+    400590: port_Rimstone Pool 01 Water Object
+    400592: port_Rimstone Pool 02 Water Object
+    400594: port_Rimstone Pool 03
+    400596: port_Rimstone Pool 03 Water Object
+    400598: port_Stalactite_and_Stalagmite_combo_large
+    400600: port_Stalactite_and_Stalagmite_combo_small
+    400602: port_Stalactite_large
+    400604: port_Stalactite_small
+    400606: port_Stalagmite_large
+    400608: port_Stalagmite_small
+    2300000: port_Cave Column Slim
+    2300002: port_Cave Column Wide
+    2300004: port_Cave Column2x Slim
+    2300006: port_Cave Column2x Slim001
+    2300008: port_Cave Column2x Slim002
+    2300010: port_Cave Column2x Slim003
+    2300012: port_Cave Column2x Slim004
+    2300014: port_Cave Column2x Wide
+    2300016: port_Cave Column2x Wide001
+    2300018: port_Cave Column2x Wide002
+    2300020: port_Cave Column2x Wide003
+    2300022: port_Cave Column2x Wide004
+    2300024: port_Cave Column2x Wide005
+    2300026: port_Cave Column2x Wide006
+    2300028: port_Cave Column2x Wide007
+    2300030: port_Cave Flowstone 002
+    2300032: port_Cave Flowstone 003
+    2300034: port_Cave Flowstone 004
+    2300036: port_Cave Flowstone 005
+    2300038: port_Cave Flowstone 006
+    2300040: port_Cave Flowstone 007
+    2300042: port_Cave Flowstone 01
+    2300044: port_Cave Flowstone 02
+    2300046: port_cave Hall Endcap
+    2300048: port_cave Hall Endcap001
+    2300050: port_cave Hall Ramp
+    2300052: port_cave Hall Ramp001
+    2300054: port_cave Hall Straight
+    2300056: port_cave Hall Straight001
+    2300058: port_cave Hall Straight002
+    2300060: port_cave Hall Straight004
+    2300062: port_cave Hall Straight006
+    2300064: port_cave Hall Straight009
+    2300066: port_cave Hall Straight010
+    2300068: port_cave Hall Straight011
+    2300070: port_cave Hall T-Intersection007
+    2300072: port_cave Hall T-Intersection008
+    2300074: port_cave Hall T-Intersection009
+    2300076: port_cave Hall T-Intersection010
+    2300078: port_cave Hall T-Intersection011
+    2300080: port_cave Hall T-Intersection012
+    2300082: port_cave Hall T-Intersection013
+    2300084: port_cave Hall to Passage Straight
+    2300086: port_cave Hall to Passage Straight001
+    2300088: port_cave Hall to Passage Straight002
+    2300090: port_cave Hall to Passage Straight003
+    2300092: port_cave Hall to Passage Straight004
+    2300094: port_cave Hall to Passage Straight005
+    2300096: port_cave Hall to Passage V-Intersection001
+    2300098: port_cave Hall V-Intersection
+    2300100: port_cave Hall V-Intersection001
+    2300102: port_cave Hall V-Intersection003
+    2300104: port_cave Hall V-Intersection004
+    2300106: port_cave Hall V-Intersection005
+    2300108: port_cave Hall V-Intersection006
+    2300110: port_cave Hall V-Intersection007
+    2300112: port_cave Hall V-Intersection008
+    2300114: port_cave Hall X-Intersection009
+    2300116: port_cave Hall X-Intersection010
+    2300118: port_cave Passage Ramp
+    2300120: port_cave Passage Ramp001
+    2300122: port_cave Passage Straight
+    2300124: port_cave Passage Straight002
+    2300126: port_cave Passage Straight003
+    2300128: port_cave Passage Straight004
+    2300130: port_cave Passage T-Intersection001
+    2300132: port_cave Passage T-Intersection002
+    2300134: port_cave Passage T-Intersection003
+    2300136: port_cave Passage to Hall V-Intersection
+    2300138: port_cave Passage to Hall V-Intersection001
+    2300140: port_cave Passage to Hall V-Intersection002
+    2300142: port_cave Passage V-Intersection
+    2300144: port_cave Passage V-Intersection001
+    2300146: port_cave Passage V-Intersection002
+    2300148: port_cave Passage V-Intersection003
+    2300150: port_cave Passage V-Intersection005
+    2300152: port_cave Passage V-Intersection006
+    2300154: port_cave Passage V-Intersection007
+    2300156: port_cave Passage V-Intersection008
+    2300158: port_cave Passage V-Intersection009
+    2300160: port_cave Passage X-Intersection
+    2300162: port_cave Passage X-Intersection001
+    2300164: port_cave Passagel Endcap001
+    2300166: port_cave Passagel Endcap002
+    2300168: port_cave Room 13m Left Hall Entrance
+    2300170: port_cave Room 13m Left Passage Entrance
+    2300172: port_cave Room 13m Right Hall Entrance
+    2300174: port_cave Room 13m Right Passage Entrance
+    2300176: port_cave Room Center
+    2300178: port_cave Room Center001
+    2300180: port_cave Room Center002
+    2300182: port_cave Room Center003
+    2300184: port_cave Room Center004
+    2300186: port_cave Room Center005
+    2300188: port_cave Room Center006
+    2300190: port_cave Room Center007
+    2300192: port_cave Room Center008
+    2300194: port_cave Room Corner Closed
+    2300196: port_cave Room Corner Open
+    2300198: port_cave Room Corner Open001
+    2300200: port_cave Room River Exit
+    2300202: port_cave Room River Trench Bend Closed
+    2300204: port_cave Room River Trench Bend Open
+    2300206: port_cave Room River Trench Center
+    2300208: port_cave Room River Trench Straight
+    2300210: port_cave Room Wall Corner Left to Hall
+    2300212: port_cave Room Wall Corner Left to Passage
+    2300214: port_cave Room Wall Corner Right to Hall
+    2300216: port_cave Room Wall Corner Right to Passage
+    2300218: port_cave Room Wall Corner to Passage001
+    2300220: port_cave Room Wall Corner to Passage002
+    2300222: port_cave Room Wall Straight
+    2300224: port_cave Room Wall Straight to Hall
+    2300226: port_cave Room Wall Straight to Hall 001
+    2300228: port_cave Room Wall Straight to Passage
+    2300230: port_cave Room Wall Straight001
+    2300232: port_cave Room Wall Straight003
+    2300234: port_cave Room Wall Straight005
+    2300236: port_cave Room Wall Straight006
+    2300238: port_cave Room2x Center
+    2300240: port_cave Room2x Center001
+    2300242: port_cave Room2x Center002
+    2300244: port_cave Room2x Center003
+    2300246: port_cave Room2x Center004
+    2300248: port_cave Room2x Center005
+    2300250: port_cave Room2x Center006
+    2300252: port_cave Room2x Center007
+    2300254: port_cave Room2x Center008
+    2300256: port_cave Room2x Center009
+    2300258: port_cave Room2x Center010
+    2300260: port_cave Room2x Center011
+    2300262: port_cave Room2x Center012
+    2300264: port_cave Room2x Center013
+    2300266: port_cave Room2x Center030
+    2300268: port_cave Room2x Center044
+    2300270: port_cave Room2x Center045
+    2300272: port_cave Room2x Center051
+    2300274: port_cave Room2x Center052
+    2300276: port_cave Room2x Corner Closed
+    2300278: port_cave Room2x Corner Closed002
+    2300280: port_cave Room2x Corner Closed003
+    2300282: port_cave Room2x Corner Closed007
+    2300284: port_cave Room2x Corner Closed008
+    2300286: port_cave Room2x Corner Closed009
+    2300288: port_cave Room2x Corner Closed010
+    2300290: port_cave Room2x Corner Closed011
+    2300292: port_cave Room2x Corner Open
+    2300294: port_cave Room2x Corner Open001
+    2300296: port_cave Room2x Corner Open002
+    2300298: port_cave Room2x Corner Open003
+    2300300: port_cave Room2x Corner Open004
+    2300302: port_cave Room2x Corner Open005
+    2300304: port_cave Room2x Corner Open006
+    2300306: port_cave Room2x Corner Open008
+    2300308: port_cave Room2x Corner Open010
+    2300310: port_cave Room2x Corner Open011
+    2300312: port_cave Room2x Corner Open012
+    2300314: port_cave Room2x River Exit
+    2300316: port_cave Room2x River Exit001
+    2300318: port_cave Room2x River Exit002
+    2300320: port_cave Room2x River Trench Bend Closed
+    2300322: port_cave Room2x River Trench Bend Closed002
+    2300324: port_cave Room2x River Trench Bend Closed003
+    2300326: port_cave Room2x River Trench Bend Closed004
+    2300328: port_cave Room2x River Trench Bend Closed005
+    2300330: port_cave Room2x River Trench Bend Closed006
+    2300332: port_cave Room2x River Trench Bend Closed007
+    2300334: port_cave Room2x River Trench Bend Open
+    2300336: port_cave Room2x River Trench Bend Open002
+    2300338: port_cave Room2x River Trench Bend Open003
+    2300340: port_cave Room2x River Trench Bend Open004
+    2300342: port_cave Room2x River Trench Bend Open005
+    2300344: port_cave Room2x River Trench Bend Open006
+    2300346: port_cave Room2x River Trench Bend Open007
+    2300348: port_cave Room2x River Trench Bend Open008
+    2300350: port_cave Room2x River Trench Bend Open009
+    2300352: port_cave Room2x River Trench Bend Open010
+    2300354: port_cave Room2x River Trench Center
+    2300356: port_cave Room2x River Trench Straight
+    2300358: port_cave Room2x River Trench Straight002
+    2300360: port_cave Room2x River Trench Straight003
+    2300362: port_cave Room2x River Trench Straight004
+    2300364: port_cave Room2x River Trench Straight005
+    2300366: port_cave Room2x River Trench Straight006
+    2300368: port_cave Room2x River Trench Straight007
+    2300370: port_cave Room2x River Trench Straight008
+    2300372: port_cave Room2x River Trench Straight009
+    2300374: port_cave Room2x Wall Corner Left to Hall High
+    2300376: port_cave Room2x Wall Corner Left to Passage
+    2300378: port_cave Room2x Wall Corner Left to Passage High
+    2300380: port_cave Room2x Wall Corner Right to Hall
+    2300382: port_cave Room2x Wall Corner Right to Hall High
+    2300384: port_cave Room2x Wall Corner Right to Hall High001
+    2300386: port_cave Room2x Wall Corner Right to Hall001
+    2300388: port_cave Room2x Wall Corner Right to Passage
+    2300390: port_cave Room2x Wall Corner Right to Passage High
+    2300392: port_cave Room2x Wall Corner to Hall001
+    2300394: port_cave Room2x Wall Corner to Passage001
+    2300396: port_cave Room2x Wall CornerLeft to Hall
+    2300398: port_cave Room2x Wall CornerLeft to Hall001
+    2300400: port_cave Room2x Wall Straight
+    2300402: port_cave Room2x Wall Straight to Hall
+    2300404: port_cave Room2x Wall Straight to Hall High
+    2300406: port_cave Room2x Wall Straight to Passage
+    2300408: port_cave Room2x Wall Straight to Passage High
+    2300410: port_cave Room2x Wall Straight to Passage High001
+    2300412: port_cave Room2x Wall Straight001
+    2300414: port_cave Room2x Wall Straight003
+    2300416: port_cave Room2x Wall Straight004
+    2300418: port_cave Room2x Wall Straight010
+    2300420: port_cave Room2x Wall Straight011
+    2300422: port_cave Room2x Wall Straight012
+    2300424: port_cave Room2x Wall Straight013
+    2300426: port_cave Room2x Wall Straight014
+    2300428: port_cave Room2x Wall Straight015
+    2300430: port_cave Room2x Wall Straight016
+    2300432: port_cave Room2x Wall Straight017
+    2300434: port_Cave Water river
+    2300436: port_Cave Water river009
+    2300438: port_Hall Straight001
+    2300440: port_Rimstone Flowstone Pedestal 01
+    2300442: port_Rimstone Flowstone Pedestal 01 water
+    2300444: port_Rimstone Pool 003
+    2300446: port_Rimstone Pool 004
+    2300448: port_Rimstone Pool 005
+    2300450: port_Rimstone Pool 006
+    2300452: port_Rimstone Pool 007
+    2300454: port_Rimstone Pool 008
+    2300456: port_Rimstone Pool 009
+    2300458: port_Rimstone Pool 01
+    2300460: port_Rimstone Pool 01 water
+    2300462: port_Rimstone Pool 011
+    2300464: port_Rimstone Pool 012
+    2300466: port_Rimstone Pool 013
+    2300468: port_Rimstone Pool 014
+    2300470: port_Rimstone Pool 015
+    2300472: port_Rimstone Pool 016
+    2300474: port_Rimstone Pool 017
+    2300476: port_Rimstone Pool 018
+    2300478: port_Rimstone Pool 019
+    2300480: port_Rimstone Pool 02
+    2300482: port_Rimstone Pool 02 Water
+    2300484: port_Rimstone Pool 02 Water001
+    2300486: port_Rimstone Pool 02 Water002
+    2300488: port_Rimstone Pool 02 Water003
+    2300490: port_Rimstone Pool 02 Water004
+    2300492: port_Rimstone Pool 02 Water005
+    2300494: port_Rimstone Pool 02 Water006
+    2300496: port_Rimstone Pool 02 Water007
+    2300498: port_Rimstone Pool 02 Water009
+    2300500: port_Rimstone Pool 02 Water010
+    2300502: port_Rimstone Pool 02 Water011
+    2300504: port_Rimstone Pool 02 Water012
+    2300506: port_Rimstone Pool 02 Water013
+    2300508: port_Rimstone Pool 02 Water014
+    2300510: port_Rimstone Pool 02 Water015
+    2300512: port_Rimstone Pool 02 Water016
+    2300514: port_Rimstone Pool 02 Water017
+    2300516: port_Rimstone Pool 02 Water018
+    2300518: port_Rimstone Pool 02 Water019
+    2300520: port_Rimstone Pool 020
+    2300522: port_Rimstone Pool 021
+    2300524: port_cave Hall T-Intersection
+    2300526: port_cave Hall to Passage V-Intersection
+    2300528: port_cave Hall X-Intersection
+    2300530: port_cave Passage Endcap
+    2300532: port_cave Passage T-Intersection
+    2300534: port_cave Bridge narrow
+    2300536: port_cave Hall Stairs
+    2300538: port_cave Passage Stairs
+    2300540: port_cave Room Contour Addition 01
+    2300542: port_cave Room Contour Addition 02
+    2300544: port_cave Room Interior Arch 01
+    2300546: port_cave Room Interior Wall 8m 01
+    2300548: port_cave Room Interior Wall 8m 02
+    2300550: port_cave Room Raised Platform 01
+    2300552: port_cave Room Raised Platform 02
+    2300554: port_cave Room2x Contour Addition 01
+    2300556: port_cave Room2x Contour Addition 02
+    2300558: port_cave Room2x Flowstone Stairs Corner Left
+    2300560: port_cave Room2x Flowstone Stairs Corner Left Water Object
+    2300562: port_cave Room2x Flowstone Stairs Corner Right
+    2300564: port_cave Room2x Flowstone Stairs Corner Right Collision Object
+    2300566: port_cave Room2x Flowstone Stairs Corner Right Water Object
+    2300568: port_cave Room2x Flowstone Stairs Straight
+    2300570: port_cave Room2x Interior Arch
+    2300572: port_cave Room2x Interior Wall 8m 01
+    2300574: port_cave Room2x Interior Wall 8m 02
+    2300576: port_cave_Column_plain_large
+    2300578: port_cave_Column_plain_small
+    2300580: port_Rimstone Flowstone Pedestal 01 river
+    2300582: port_Rimstone Flowstone Pedestal 02
+    2300584: port_Rimstone Pool 01 river
+    2300586: port_Rimstone Pool 01 river Water Object
+    2300588: port_Rimstone Pool 01 Water Object
+    2300590: port_Rimstone Pool 02 Water Object
+    2300592: port_Rimstone Pool 03
+    2300594: port_Rimstone Pool 03 Water Object
+    2300596: port_Stalactite_and_Stalagmite_combo_large
+    2300598: port_Stalactite_and_Stalagmite_combo_small
+    2300600: port_Stalactite_large
+    2300602: port_Stalactite_small
+    2300604: port_Stalagmite_large
+    2300606: port_Stalagmite_small
+    2300608: //RootNode
+    3300000: port_Cave Column Slim
+    3300002: port_Cave Column Wide
+    3300004: port_Cave Column2x Slim
+    3300006: port_Cave Column2x Slim001
+    3300008: port_Cave Column2x Slim002
+    3300010: port_Cave Column2x Slim003
+    3300012: port_Cave Column2x Slim004
+    3300014: port_Cave Column2x Wide
+    3300016: port_Cave Column2x Wide001
+    3300018: port_Cave Column2x Wide002
+    3300020: port_Cave Column2x Wide003
+    3300022: port_Cave Column2x Wide004
+    3300024: port_Cave Column2x Wide005
+    3300026: port_Cave Column2x Wide006
+    3300028: port_Cave Column2x Wide007
+    3300030: port_Cave Flowstone 002
+    3300032: port_Cave Flowstone 003
+    3300034: port_Cave Flowstone 004
+    3300036: port_Cave Flowstone 005
+    3300038: port_Cave Flowstone 006
+    3300040: port_Cave Flowstone 007
+    3300042: port_Cave Flowstone 01
+    3300044: port_Cave Flowstone 02
+    3300046: port_cave Hall Endcap
+    3300048: port_cave Hall Endcap001
+    3300050: port_cave Hall Ramp
+    3300052: port_cave Hall Ramp001
+    3300054: port_cave Hall Straight
+    3300056: port_cave Hall Straight001
+    3300058: port_cave Hall Straight002
+    3300060: port_cave Hall Straight004
+    3300062: port_cave Hall Straight006
+    3300064: port_cave Hall Straight009
+    3300066: port_cave Hall Straight010
+    3300068: port_cave Hall Straight011
+    3300070: port_cave Hall T-Intersection007
+    3300072: port_cave Hall T-Intersection008
+    3300074: port_cave Hall T-Intersection009
+    3300076: port_cave Hall T-Intersection010
+    3300078: port_cave Hall T-Intersection011
+    3300080: port_cave Hall T-Intersection012
+    3300082: port_cave Hall T-Intersection013
+    3300084: port_cave Hall to Passage Straight
+    3300086: port_cave Hall to Passage Straight001
+    3300088: port_cave Hall to Passage Straight002
+    3300090: port_cave Hall to Passage Straight003
+    3300092: port_cave Hall to Passage Straight004
+    3300094: port_cave Hall to Passage Straight005
+    3300096: port_cave Hall to Passage V-Intersection001
+    3300098: port_cave Hall V-Intersection
+    3300100: port_cave Hall V-Intersection001
+    3300102: port_cave Hall V-Intersection003
+    3300104: port_cave Hall V-Intersection004
+    3300106: port_cave Hall V-Intersection005
+    3300108: port_cave Hall V-Intersection006
+    3300110: port_cave Hall V-Intersection007
+    3300112: port_cave Hall V-Intersection008
+    3300114: port_cave Hall X-Intersection009
+    3300116: port_cave Hall X-Intersection010
+    3300118: port_cave Passage Ramp
+    3300120: port_cave Passage Ramp001
+    3300122: port_cave Passage Straight
+    3300124: port_cave Passage Straight002
+    3300126: port_cave Passage Straight003
+    3300128: port_cave Passage Straight004
+    3300130: port_cave Passage T-Intersection001
+    3300132: port_cave Passage T-Intersection002
+    3300134: port_cave Passage T-Intersection003
+    3300136: port_cave Passage to Hall V-Intersection
+    3300138: port_cave Passage to Hall V-Intersection001
+    3300140: port_cave Passage to Hall V-Intersection002
+    3300142: port_cave Passage V-Intersection
+    3300144: port_cave Passage V-Intersection001
+    3300146: port_cave Passage V-Intersection002
+    3300148: port_cave Passage V-Intersection003
+    3300150: port_cave Passage V-Intersection005
+    3300152: port_cave Passage V-Intersection006
+    3300154: port_cave Passage V-Intersection007
+    3300156: port_cave Passage V-Intersection008
+    3300158: port_cave Passage V-Intersection009
+    3300160: port_cave Passage X-Intersection
+    3300162: port_cave Passage X-Intersection001
+    3300164: port_cave Passagel Endcap001
+    3300166: port_cave Passagel Endcap002
+    3300168: port_cave Room 13m Left Hall Entrance
+    3300170: port_cave Room 13m Left Passage Entrance
+    3300172: port_cave Room 13m Right Hall Entrance
+    3300174: port_cave Room 13m Right Passage Entrance
+    3300176: port_cave Room Center
+    3300178: port_cave Room Center001
+    3300180: port_cave Room Center002
+    3300182: port_cave Room Center003
+    3300184: port_cave Room Center004
+    3300186: port_cave Room Center005
+    3300188: port_cave Room Center006
+    3300190: port_cave Room Center007
+    3300192: port_cave Room Center008
+    3300194: port_cave Room Corner Closed
+    3300196: port_cave Room Corner Open
+    3300198: port_cave Room Corner Open001
+    3300200: port_cave Room River Exit
+    3300202: port_cave Room River Trench Bend Closed
+    3300204: port_cave Room River Trench Bend Open
+    3300206: port_cave Room River Trench Center
+    3300208: port_cave Room River Trench Straight
+    3300210: port_cave Room Wall Corner Left to Hall
+    3300212: port_cave Room Wall Corner Left to Passage
+    3300214: port_cave Room Wall Corner Right to Hall
+    3300216: port_cave Room Wall Corner Right to Passage
+    3300218: port_cave Room Wall Corner to Passage001
+    3300220: port_cave Room Wall Corner to Passage002
+    3300222: port_cave Room Wall Straight
+    3300224: port_cave Room Wall Straight to Hall
+    3300226: port_cave Room Wall Straight to Hall 001
+    3300228: port_cave Room Wall Straight to Passage
+    3300230: port_cave Room Wall Straight001
+    3300232: port_cave Room Wall Straight003
+    3300234: port_cave Room Wall Straight005
+    3300236: port_cave Room Wall Straight006
+    3300238: port_cave Room2x Center
+    3300240: port_cave Room2x Center001
+    3300242: port_cave Room2x Center002
+    3300244: port_cave Room2x Center003
+    3300246: port_cave Room2x Center004
+    3300248: port_cave Room2x Center005
+    3300250: port_cave Room2x Center006
+    3300252: port_cave Room2x Center007
+    3300254: port_cave Room2x Center008
+    3300256: port_cave Room2x Center009
+    3300258: port_cave Room2x Center010
+    3300260: port_cave Room2x Center011
+    3300262: port_cave Room2x Center012
+    3300264: port_cave Room2x Center013
+    3300266: port_cave Room2x Center030
+    3300268: port_cave Room2x Center044
+    3300270: port_cave Room2x Center045
+    3300272: port_cave Room2x Center051
+    3300274: port_cave Room2x Center052
+    3300276: port_cave Room2x Corner Closed
+    3300278: port_cave Room2x Corner Closed002
+    3300280: port_cave Room2x Corner Closed003
+    3300282: port_cave Room2x Corner Closed007
+    3300284: port_cave Room2x Corner Closed008
+    3300286: port_cave Room2x Corner Closed009
+    3300288: port_cave Room2x Corner Closed010
+    3300290: port_cave Room2x Corner Closed011
+    3300292: port_cave Room2x Corner Open
+    3300294: port_cave Room2x Corner Open001
+    3300296: port_cave Room2x Corner Open002
+    3300298: port_cave Room2x Corner Open003
+    3300300: port_cave Room2x Corner Open004
+    3300302: port_cave Room2x Corner Open005
+    3300304: port_cave Room2x Corner Open006
+    3300306: port_cave Room2x Corner Open008
+    3300308: port_cave Room2x Corner Open010
+    3300310: port_cave Room2x Corner Open011
+    3300312: port_cave Room2x Corner Open012
+    3300314: port_cave Room2x River Exit
+    3300316: port_cave Room2x River Exit001
+    3300318: port_cave Room2x River Exit002
+    3300320: port_cave Room2x River Trench Bend Closed
+    3300322: port_cave Room2x River Trench Bend Closed002
+    3300324: port_cave Room2x River Trench Bend Closed003
+    3300326: port_cave Room2x River Trench Bend Closed004
+    3300328: port_cave Room2x River Trench Bend Closed005
+    3300330: port_cave Room2x River Trench Bend Closed006
+    3300332: port_cave Room2x River Trench Bend Closed007
+    3300334: port_cave Room2x River Trench Bend Open
+    3300336: port_cave Room2x River Trench Bend Open002
+    3300338: port_cave Room2x River Trench Bend Open003
+    3300340: port_cave Room2x River Trench Bend Open004
+    3300342: port_cave Room2x River Trench Bend Open005
+    3300344: port_cave Room2x River Trench Bend Open006
+    3300346: port_cave Room2x River Trench Bend Open007
+    3300348: port_cave Room2x River Trench Bend Open008
+    3300350: port_cave Room2x River Trench Bend Open009
+    3300352: port_cave Room2x River Trench Bend Open010
+    3300354: port_cave Room2x River Trench Center
+    3300356: port_cave Room2x River Trench Straight
+    3300358: port_cave Room2x River Trench Straight002
+    3300360: port_cave Room2x River Trench Straight003
+    3300362: port_cave Room2x River Trench Straight004
+    3300364: port_cave Room2x River Trench Straight005
+    3300366: port_cave Room2x River Trench Straight006
+    3300368: port_cave Room2x River Trench Straight007
+    3300370: port_cave Room2x River Trench Straight008
+    3300372: port_cave Room2x River Trench Straight009
+    3300374: port_cave Room2x Wall Corner Left to Hall High
+    3300376: port_cave Room2x Wall Corner Left to Passage
+    3300378: port_cave Room2x Wall Corner Left to Passage High
+    3300380: port_cave Room2x Wall Corner Right to Hall
+    3300382: port_cave Room2x Wall Corner Right to Hall High
+    3300384: port_cave Room2x Wall Corner Right to Hall High001
+    3300386: port_cave Room2x Wall Corner Right to Hall001
+    3300388: port_cave Room2x Wall Corner Right to Passage
+    3300390: port_cave Room2x Wall Corner Right to Passage High
+    3300392: port_cave Room2x Wall Corner to Hall001
+    3300394: port_cave Room2x Wall Corner to Passage001
+    3300396: port_cave Room2x Wall CornerLeft to Hall
+    3300398: port_cave Room2x Wall CornerLeft to Hall001
+    3300400: port_cave Room2x Wall Straight
+    3300402: port_cave Room2x Wall Straight to Hall
+    3300404: port_cave Room2x Wall Straight to Hall High
+    3300406: port_cave Room2x Wall Straight to Passage
+    3300408: port_cave Room2x Wall Straight to Passage High
+    3300410: port_cave Room2x Wall Straight to Passage High001
+    3300412: port_cave Room2x Wall Straight001
+    3300414: port_cave Room2x Wall Straight003
+    3300416: port_cave Room2x Wall Straight004
+    3300418: port_cave Room2x Wall Straight010
+    3300420: port_cave Room2x Wall Straight011
+    3300422: port_cave Room2x Wall Straight012
+    3300424: port_cave Room2x Wall Straight013
+    3300426: port_cave Room2x Wall Straight014
+    3300428: port_cave Room2x Wall Straight015
+    3300430: port_cave Room2x Wall Straight016
+    3300432: port_cave Room2x Wall Straight017
+    3300434: port_Cave Water river
+    3300436: port_Cave Water river009
+    3300438: port_Hall Straight001
+    3300440: port_Rimstone Flowstone Pedestal 01
+    3300442: port_Rimstone Flowstone Pedestal 01 water
+    3300444: port_Rimstone Pool 003
+    3300446: port_Rimstone Pool 004
+    3300448: port_Rimstone Pool 005
+    3300450: port_Rimstone Pool 006
+    3300452: port_Rimstone Pool 007
+    3300454: port_Rimstone Pool 008
+    3300456: port_Rimstone Pool 009
+    3300458: port_Rimstone Pool 01
+    3300460: port_Rimstone Pool 01 water
+    3300462: port_Rimstone Pool 011
+    3300464: port_Rimstone Pool 012
+    3300466: port_Rimstone Pool 013
+    3300468: port_Rimstone Pool 014
+    3300470: port_Rimstone Pool 015
+    3300472: port_Rimstone Pool 016
+    3300474: port_Rimstone Pool 017
+    3300476: port_Rimstone Pool 018
+    3300478: port_Rimstone Pool 019
+    3300480: port_Rimstone Pool 02
+    3300482: port_Rimstone Pool 02 Water
+    3300484: port_Rimstone Pool 02 Water001
+    3300486: port_Rimstone Pool 02 Water002
+    3300488: port_Rimstone Pool 02 Water003
+    3300490: port_Rimstone Pool 02 Water004
+    3300492: port_Rimstone Pool 02 Water005
+    3300494: port_Rimstone Pool 02 Water006
+    3300496: port_Rimstone Pool 02 Water007
+    3300498: port_Rimstone Pool 02 Water009
+    3300500: port_Rimstone Pool 02 Water010
+    3300502: port_Rimstone Pool 02 Water011
+    3300504: port_Rimstone Pool 02 Water012
+    3300506: port_Rimstone Pool 02 Water013
+    3300508: port_Rimstone Pool 02 Water014
+    3300510: port_Rimstone Pool 02 Water015
+    3300512: port_Rimstone Pool 02 Water016
+    3300514: port_Rimstone Pool 02 Water017
+    3300516: port_Rimstone Pool 02 Water018
+    3300518: port_Rimstone Pool 02 Water019
+    3300520: port_Rimstone Pool 020
+    3300522: port_Rimstone Pool 021
+    3300524: port_cave Hall T-Intersection
+    3300526: port_cave Hall to Passage V-Intersection
+    3300528: port_cave Hall X-Intersection
+    3300530: port_cave Passage Endcap
+    3300532: port_cave Passage T-Intersection
+    3300534: port_cave Bridge narrow
+    3300536: port_cave Hall Stairs
+    3300538: port_cave Passage Stairs
+    3300540: port_cave Room Contour Addition 01
+    3300542: port_cave Room Contour Addition 02
+    3300544: port_cave Room Interior Arch 01
+    3300546: port_cave Room Interior Wall 8m 01
+    3300548: port_cave Room Interior Wall 8m 02
+    3300550: port_cave Room Raised Platform 01
+    3300552: port_cave Room Raised Platform 02
+    3300554: port_cave Room2x Contour Addition 01
+    3300556: port_cave Room2x Contour Addition 02
+    3300558: port_cave Room2x Flowstone Stairs Corner Left
+    3300560: port_cave Room2x Flowstone Stairs Corner Left Water Object
+    3300562: port_cave Room2x Flowstone Stairs Corner Right
+    3300564: port_cave Room2x Flowstone Stairs Corner Right Collision Object
+    3300566: port_cave Room2x Flowstone Stairs Corner Right Water Object
+    3300568: port_cave Room2x Flowstone Stairs Straight
+    3300570: port_cave Room2x Interior Arch
+    3300572: port_cave Room2x Interior Wall 8m 01
+    3300574: port_cave Room2x Interior Wall 8m 02
+    3300576: port_cave_Column_plain_large
+    3300578: port_cave_Column_plain_small
+    3300580: port_Rimstone Flowstone Pedestal 01 river
+    3300582: port_Rimstone Flowstone Pedestal 02
+    3300584: port_Rimstone Pool 01 river
+    3300586: port_Rimstone Pool 01 river Water Object
+    3300588: port_Rimstone Pool 01 Water Object
+    3300590: port_Rimstone Pool 02 Water Object
+    3300592: port_Rimstone Pool 03
+    3300594: port_Rimstone Pool 03 Water Object
+    3300596: port_Stalactite_and_Stalagmite_combo_large
+    3300598: port_Stalactite_and_Stalagmite_combo_small
+    3300600: port_Stalactite_large
+    3300602: port_Stalactite_small
+    3300604: port_Stalagmite_large
+    3300606: port_Stalagmite_small
+    3300608: //RootNode
+    4300000: port_cave Room Center
+    4300002: port_cave Hall Straight
+    4300004: port_cave Hall V-Intersection
+    4300006: port_cave Hall V-Intersection001
+    4300008: port_cave Hall V-Intersection003
+    4300010: port_cave Hall V-Intersection004
+    4300012: port_cave Hall V-Intersection005
+    4300014: port_cave Passage Straight
+    4300016: port_cave Passage V-Intersection
+    4300018: port_cave Passage T-Intersection001
+    4300020: port_cave Passage X-Intersection
+    4300022: port_cave Passage Straight002
+    4300024: port_cave Passage V-Intersection001
+    4300026: port_cave Passage V-Intersection002
+    4300028: port_cave Passage V-Intersection003
+    4300030: port_cave Passage V-Intersection005
+    4300032: port_cave Passage V-Intersection006
+    4300034: port_cave Passage T-Intersection002
+    4300036: port_cave Passage X-Intersection001
+    4300038: port_cave Hall T-Intersection007
+    4300040: port_cave Hall T-Intersection008
+    4300042: port_cave Hall X-Intersection009
+    4300044: port_cave Hall X-Intersection010
+    4300046: port_cave Hall Straight001
+    4300048: port_cave Hall Straight002
+    4300050: port_Hall Straight001
+    4300052: port_cave Hall Endcap
+    4300054: port_cave Passagel Endcap001
+    4300056: port_cave Hall to Passage Straight
+    4300058: port_cave Passage Straight003
+    4300060: port_cave Hall Straight004
+    4300062: port_cave Hall Straight006
+    4300064: port_cave Passage to Hall V-Intersection
+    4300066: port_cave Hall to Passage V-Intersection001
+    4300068: port_cave Hall Ramp
+    4300070: port_cave Hall to Passage Straight001
+    4300072: port_cave Passage to Hall V-Intersection001
+    4300074: port_cave Passage to Hall V-Intersection002
+    4300076: port_cave Passage Ramp
+    4300078: port_cave Hall Ramp001
+    4300080: port_cave Hall V-Intersection006
+    4300082: port_cave Passage Ramp001
+    4300084: port_cave Passage V-Intersection007
+    4300086: port_cave Hall to Passage Straight002
+    4300088: port_cave Hall to Passage Straight003
+    4300090: port_cave Hall to Passage Straight004
+    4300092: port_cave Hall T-Intersection009
+    4300094: port_cave Hall Endcap001
+    4300096: port_cave Passage T-Intersection003
+    4300098: port_cave Passagel Endcap002
+    4300100: port_cave Room Wall Straight
+    4300102: port_cave Room Corner Open
+    4300104: port_cave Room Wall Corner Right to Hall
+    4300106: port_cave Room Wall Straight to Hall
+    4300108: port_cave Room Wall Corner Right to Passage
+    4300110: port_cave Room Wall Straight to Passage
+    4300112: port_cave Hall T-Intersection010
+    4300114: port_cave Room Center001
+    4300116: port_cave Room Center002
+    4300118: port_cave Room Center003
+    4300120: port_cave Room Center004
+    4300122: port_cave Room Center005
+    4300124: port_cave Room Center006
+    4300126: port_cave Room Corner Open001
+    4300128: port_cave Room Wall Straight001
+    4300130: port_cave Hall Straight009
+    4300132: port_cave Hall to Passage Straight005
+    4300134: port_cave Hall T-Intersection011
+    4300136: port_cave Hall Straight010
+    4300138: port_cave Hall V-Intersection007
+    4300140: port_cave Room Center007
+    4300142: port_cave Room Center008
+    4300144: port_cave Room Wall Straight to Hall 001
+    4300146: port_cave Room Wall Corner to Passage001
+    4300148: port_cave Room2x Center
+    4300150: port_cave Room2x Wall Straight to Passage
+    4300152: port_cave Room2x Wall Corner Right to Hall
+    4300154: port_cave Room2x Wall Straight to Hall
+    4300156: port_cave Room2x Corner Open
+    4300158: port_cave Room2x Wall Straight
+    4300160: port_cave Hall T-Intersection012
+    4300162: port_cave Room2x Corner Open001
+    4300164: port_cave Room2x Corner Open002
+    4300166: port_cave Room2x Corner Open003
+    4300168: port_cave Room2x Corner Open004
+    4300170: port_cave Room2x Corner Open005
+    4300172: port_cave Room2x Corner Open006
+    4300174: port_cave Room2x Center001
+    4300176: port_cave Room2x Center002
+    4300178: port_cave Room2x Center003
+    4300180: port_cave Room2x Center004
+    4300182: port_cave Room2x Center005
+    4300184: port_cave Room2x Center006
+    4300186: port_cave Room2x Center007
+    4300188: port_cave Room2x Center008
+    4300190: port_cave Room2x Center009
+    4300192: port_cave Room2x Center010
+    4300194: port_cave Room2x Center011
+    4300196: port_cave Room2x Center012
+    4300198: port_cave Room2x Center013
+    4300200: port_cave Room Wall Corner to Passage002
+    4300202: port_cave Passage V-Intersection008
+    4300204: port_cave Passage Straight004
+    4300206: port_cave Room2x Wall Corner Right to Passage
+    4300208: port_cave Room2x Wall Corner to Hall001
+    4300210: port_cave Room2x Wall Corner to Passage001
+    4300212: port_cave Room Corner Closed
+    4300214: port_cave Room Wall Straight003
+    4300216: port_cave Room Wall Straight005
+    4300218: port_cave Room Wall Straight006
+    4300220: port_cave Room2x Corner Closed
+    4300222: port_cave Room2x Corner Closed002
+    4300224: port_cave Room2x Corner Closed003
+    4300226: port_cave Room2x Wall Straight001
+    4300228: port_cave Room2x Wall Straight003
+    4300230: port_cave Room2x Wall Straight004
+    4300232: port_cave Hall T-Intersection013
+    4300234: port_cave Room2x Wall Straight to Hall High
+    4300236: port_cave Room2x Wall Corner Right to Hall High
+    4300238: port_cave Room2x Wall Corner Right to Passage High
+    4300240: port_cave Room2x Wall Straight to Passage High
+    4300242: port_cave Hall V-Intersection008
+    4300244: port_cave Hall Straight011
+    4300246: port_cave Passage V-Intersection009
+    4300248: port_cave Room2x Wall Corner Left to Hall High
+    4300250: port_cave Room2x Wall Corner Left to Passage High
+    4300252: port_cave Room2x Wall CornerLeft to Hall
+    4300254: port_cave Room2x Wall Corner Left to Passage
+    4300256: port_cave Room Wall Corner Left to Hall
+    4300258: port_cave Room Wall Corner Left to Passage
+    4300260: port_cave Room2x Wall Corner Right to Hall High001
+    4300262: port_cave Room2x Wall Straight to Passage High001
+    4300264: port_cave Room 13m Left Passage Entrance
+    4300266: port_cave Room 13m Left Hall Entrance
+    4300268: port_cave Room 13m Right Passage Entrance
+    4300270: port_cave Room 13m Right Hall Entrance
+    4300272: port_Cave Column2x Wide
+    4300274: port_Cave Column2x Slim
+    4300276: port_Cave Flowstone 01
+    4300278: port_Cave Column2x Wide001
+    4300280: port_Cave Column2x Slim001
+    4300282: port_Cave Flowstone 002
+    4300284: port_cave Room2x River Trench Bend Closed
+    4300286: port_cave Room2x River Trench Bend Open
+    4300288: port_cave Room2x River Trench Straight
+    4300290: port_cave Room2x Wall Corner Right to Hall001
+    4300292: port_cave Room2x Wall CornerLeft to Hall001
+    4300294: port_cave Room2x Center030
+    4300296: port_cave Room2x Corner Open008
+    4300298: port_cave Room2x River Trench Center
+    4300300: port_cave Room2x Center044
+    4300302: port_cave Room2x Center045
+    4300304: port_cave Room2x Wall Straight010
+    4300306: port_cave Room2x Wall Straight011
+    4300308: port_cave Room2x Corner Closed007
+    4300310: port_cave Room2x Wall Straight012
+    4300312: port_cave Room2x Wall Straight013
+    4300314: port_cave Room2x Corner Closed008
+    4300316: port_cave Room2x Corner Open010
+    4300318: port_cave Room2x Wall Straight014
+    4300320: port_cave Room2x Corner Closed009
+    4300322: port_cave Room2x Wall Straight015
+    4300324: port_cave Room2x Wall Straight016
+    4300326: port_cave Room2x Corner Open011
+    4300328: port_cave Room2x Corner Closed010
+    4300330: port_cave Room2x Wall Straight017
+    4300332: port_cave Room2x Corner Closed011
+    4300334: port_cave Room2x Corner Open012
+    4300336: port_Cave Column2x Wide002
+    4300338: port_Cave Column2x Slim002
+    4300340: port_Cave Flowstone 003
+    4300342: port_Cave Flowstone 004
+    4300344: port_Cave Flowstone 005
+    4300346: port_Cave Column2x Wide003
+    4300348: port_Cave Column2x Slim003
+    4300350: port_Cave Flowstone 006
+    4300352: port_Cave Column2x Wide004
+    4300354: port_Cave Column2x Slim004
+    4300356: port_Cave Flowstone 007
+    4300358: port_Cave Column2x Wide005
+    4300360: port_Cave Column2x Wide006
+    4300362: port_Cave Column2x Wide007
+    4300364: port_cave Room2x Center051
+    4300366: port_cave Room2x Center052
+    4300368: port_Rimstone Pool 01
+    4300370: port_Rimstone Pool 01 water
+    4300372: port_Rimstone Pool 02
+    4300374: port_Rimstone Pool 02 Water
+    4300376: port_Rimstone Flowstone Pedestal 01
+    4300378: port_Rimstone Flowstone Pedestal 01 water
+    4300380: port_Cave Water river
+    4300382: port_Cave Water river009
+    4300384: port_Rimstone Pool 02 Water001
+    4300386: port_Rimstone Pool 003
+    4300388: port_Rimstone Pool 02 Water002
+    4300390: port_Rimstone Pool 004
+    4300392: port_Rimstone Pool 02 Water003
+    4300394: port_Rimstone Pool 005
+    4300396: port_Rimstone Pool 02 Water004
+    4300398: port_Rimstone Pool 006
+    4300400: port_Rimstone Pool 02 Water005
+    4300402: port_Rimstone Pool 007
+    4300404: port_Rimstone Pool 02 Water006
+    4300406: port_Rimstone Pool 008
+    4300408: port_Rimstone Pool 02 Water007
+    4300410: port_Rimstone Pool 009
+    4300412: port_Rimstone Pool 02 Water009
+    4300414: port_Rimstone Pool 011
+    4300416: port_Rimstone Pool 02 Water010
+    4300418: port_Rimstone Pool 012
+    4300420: port_Rimstone Pool 013
+    4300422: port_Rimstone Pool 02 Water011
+    4300424: port_Rimstone Pool 014
+    4300426: port_Rimstone Pool 02 Water012
+    4300428: port_Rimstone Pool 015
+    4300430: port_Rimstone Pool 02 Water013
+    4300432: port_Rimstone Pool 02 Water014
+    4300434: port_Rimstone Pool 016
+    4300436: port_Rimstone Pool 02 Water015
+    4300438: port_Rimstone Pool 017
+    4300440: port_Rimstone Pool 02 Water016
+    4300442: port_Rimstone Pool 018
+    4300444: port_Rimstone Pool 019
+    4300446: port_Rimstone Pool 02 Water017
+    4300448: port_Rimstone Pool 02 Water018
+    4300450: port_Rimstone Pool 020
+    4300452: port_Rimstone Pool 021
+    4300454: port_Rimstone Pool 02 Water019
+    4300456: port_cave Room2x River Exit
+    4300458: port_Cave Column Slim
+    4300460: port_Cave Column Wide
+    4300462: port_Cave Flowstone 02
+    4300464: port_cave Room2x River Exit001
+    4300466: port_cave Room2x River Exit002
+    4300468: port_cave Room2x River Trench Bend Closed002
+    4300470: port_cave Room2x River Trench Straight002
+    4300472: port_cave Room2x River Trench Straight003
+    4300474: port_cave Room2x River Trench Straight004
+    4300476: port_cave Room2x River Trench Bend Open002
+    4300478: port_cave Room2x River Trench Bend Open003
+    4300480: port_cave Room2x River Trench Bend Open004
+    4300482: port_cave Room2x River Trench Bend Closed003
+    4300484: port_cave Room2x River Trench Straight005
+    4300486: port_cave Room2x River Trench Bend Open005
+    4300488: port_cave Room2x River Trench Bend Open006
+    4300490: port_cave Room2x River Trench Straight006
+    4300492: port_cave Room2x River Trench Bend Closed004
+    4300494: port_cave Room2x River Trench Bend Open007
+    4300496: port_cave Room2x River Trench Bend Open008
+    4300498: port_cave Room2x River Trench Bend Closed005
+    4300500: port_cave Room2x River Trench Straight007
+    4300502: port_cave Room2x River Trench Bend Closed006
+    4300504: port_cave Room2x River Trench Bend Open009
+    4300506: port_cave Room2x River Trench Straight008
+    4300508: port_cave Room2x River Trench Straight009
+    4300510: port_cave Room2x River Trench Bend Closed007
+    4300512: port_cave Room River Trench Center
+    4300514: port_cave Room River Trench Bend Open
+    4300516: port_cave Room River Trench Bend Closed
+    4300518: port_cave Room River Trench Straight
+    4300520: port_cave Room2x River Trench Bend Open010
+    4300522: port_cave Room River Exit
+    4300524: port_cave Passage T-Intersection
+    4300526: port_cave Hall T-Intersection
+    4300528: port_cave Hall X-Intersection
+    4300530: port_cave Passage Endcap
+    4300532: port_cave Hall to Passage V-Intersection
+    4300534: port_cave Bridge narrow
+    4300536: port_cave Room Interior Wall 8m 02
+    4300538: port_Rimstone Pool 01 river
+    4300540: port_Rimstone Pool 02 Water Object
+    4300542: port_Rimstone Flowstone Pedestal 01 river
+    4300544: port_cave Room2x Flowstone Stairs Corner Right Water Object
+    4300546: port_cave Room2x Flowstone Stairs Corner Right
+    4300548: port_cave Room2x Contour Addition 02
+    4300550: port_cave Room2x Contour Addition 01
+    4300552: port_cave Room Contour Addition 01
+    4300554: port_cave Room Contour Addition 02
+    4300556: port_cave Room Raised Platform 02
+    4300558: port_cave Room Raised Platform 01
+    4300560: port_Rimstone Flowstone Pedestal 02
+    4300562: port_Rimstone Pool 01 Water Object
+    4300564: port_Rimstone Pool 01 river Water Object
+    4300566: port_cave Room Interior Wall 8m 01
+    4300568: port_cave Room Interior Arch 01
+    4300570: port_cave Room2x Interior Wall 8m 01
+    4300572: port_Stalagmite_small
+    4300574: port_Stalactite_small
+    4300576: port_cave_Column_plain_small
+    4300578: port_Stalactite_and_Stalagmite_combo_small
+    4300580: port_cave Room2x Interior Wall 8m 02
+    4300582: port_cave Room2x Interior Arch
+    4300584: port_Stalagmite_large
+    4300586: port_Stalactite_large
+    4300588: port_Stalactite_and_Stalagmite_combo_large
+    4300590: port_cave_Column_plain_large
+    4300592: port_cave Passage Stairs
+    4300594: port_cave Hall Stairs
+    4300596: port_cave Room2x Flowstone Stairs Straight
+    4300598: port_Rimstone Pool 03
+    4300600: port_Rimstone Pool 03 Water Object
+    4300602: port_cave Room2x Flowstone Stairs Corner Left Water Object
+    4300604: port_cave Room2x Flowstone Stairs Corner Left
+    4300606: port_cave Room2x Flowstone Stairs Corner Right Collision Object
+    6400000: port_cave Bridge narrow
+    6400002: port_Cave Column Slim
+    6400004: port_Cave Column Wide
+    6400006: port_Cave Column2x Slim
+    6400008: port_Cave Column2x Wide
+    6400010: port_Cave Flowstone 01
+    6400012: port_Cave Flowstone 02
+    6400014: port_cave Hall Endcap
+    6400016: port_cave Hall Ramp
+    6400018: port_cave Hall Straight
+    6400020: port_cave Hall T-Intersection
+    6400022: port_cave Hall to Passage Straight
+    6400024: port_cave Hall to Passage V-Intersection
+    6400026: port_cave Hall V-Intersection
+    6400028: port_cave Hall X-Intersection
+    6400030: port_cave Passage Endcap
+    6400032: port_cave Passage Ramp
+    6400034: port_cave Passage Straight
+    6400036: port_cave Passage T-Intersection
+    6400038: port_cave Passage to Hall V-Intersection
+    6400040: port_cave Passage V-Intersection
+    6400042: port_cave Passage X-Intersection
+    6400044: port_cave Room 13m Left Hall Entrance
+    6400046: port_cave Room 13m Left Passage Entrance
+    6400048: port_cave Room 13m Right Hall Entrance
+    6400050: port_cave Room 13m Right Passage Entrance
+    6400052: port_cave Room Center
+    6400054: port_cave Room Corner Closed
+    6400056: port_cave Room Corner Open
+    6400058: port_cave Room River Exit
+    6400060: port_cave Room River Trench Bend Closed
+    6400062: port_cave Room River Trench Bend Open
+    6400064: port_cave Room River Trench Center
+    6400066: port_cave Room River Trench Straight
+    6400068: port_cave Room Wall Corner Left to Hall
+    6400070: port_cave Room Wall Corner Left to Passage
+    6400072: port_cave Room Wall Corner Right to Hall
+    6400074: port_cave Room Wall Corner Right to Passage
+    6400076: port_cave Room Wall Straight
+    6400078: port_cave Room Wall Straight to Hall
+    6400080: port_cave Room Wall Straight to Passage
+    6400082: port_cave Room2x Center
+    6400084: port_cave Room2x Corner Closed
+    6400086: port_cave Room2x Corner Open
+    6400088: port_cave Room2x River Exit
+    6400090: port_cave Room2x River Trench Bend Closed
+    6400092: port_cave Room2x River Trench Bend Open
+    6400094: port_cave Room2x River Trench Center
+    6400096: port_cave Room2x River Trench Straight
+    6400098: port_cave Room2x Wall Corner Left to Hall High
+    6400100: port_cave Room2x Wall Corner Left to Passage
+    6400102: port_cave Room2x Wall Corner Left to Passage High
+    6400104: port_cave Room2x Wall Corner Right to Hall
+    6400106: port_cave Room2x Wall Corner Right to Hall High
+    6400108: port_cave Room2x Wall Corner Right to Passage
+    6400110: port_cave Room2x Wall Corner Right to Passage High
+    6400112: port_cave Room2x Wall CornerLeft to Hall
+    6400114: port_cave Room2x Wall Straight
+    6400116: port_cave Room2x Wall Straight to Hall
+    6400118: port_cave Room2x Wall Straight to Hall High
+    6400120: port_cave Room2x Wall Straight to Passage
+    6400122: port_cave Room2x Wall Straight to Passage High
+    6400124: port_Cave Water river
+    6400126: port_Rimstone Flowstone Pedestal 01
+    6400128: port_Rimstone Flowstone Pedestal 01 water
+    6400130: port_Rimstone Pool 01
+    6400132: port_Rimstone Pool 01 water
+    6400134: port_Rimstone Pool 02
+    6400136: port_Rimstone Pool 02 Water
+    6400138: port_cave Hall Stairs
+    6400140: port_cave Passage Stairs
+    6400142: port_cave Room Contour Addition 01
+    6400144: port_cave Room Contour Addition 02
+    6400146: port_cave Room Interior Arch 01
+    6400148: port_cave Room Interior Wall 8m 01
+    6400150: port_cave Room Interior Wall 8m 02
+    6400152: port_cave Room Raised Platform 01
+    6400154: port_cave Room Raised Platform 02
+    6400156: port_cave Room2x Contour Addition 01
+    6400158: port_cave Room2x Contour Addition 02
+    6400160: port_cave Room2x Flowstone Stairs Corner Left
+    6400162: port_cave Room2x Flowstone Stairs Corner Left Water Object
+    6400164: port_cave Room2x Flowstone Stairs Corner Right
+    6400166: port_cave Room2x Flowstone Stairs Corner Right Collision Object
+    6400168: port_cave Room2x Flowstone Stairs Corner Right Water Object
+    6400170: port_cave Room2x Flowstone Stairs Straight
+    6400172: port_cave Room2x Interior Arch
+    6400174: port_cave Room2x Interior Wall 8m 01
+    6400176: port_cave Room2x Interior Wall 8m 02
+    6400178: port_cave_Column_plain_large
+    6400180: port_cave_Column_plain_small
+    6400182: port_Rimstone Flowstone Pedestal 01 river
+    6400184: port_Rimstone Flowstone Pedestal 02
+    6400186: port_Rimstone Pool 01 river
+    6400188: port_Rimstone Pool 01 river Water Object
+    6400190: port_Rimstone Pool 01 Water Object
+    6400192: port_Rimstone Pool 02 Water Object
+    6400194: port_Rimstone Pool 03
+    6400196: port_Rimstone Pool 03 Water Object
+    6400198: port_Stalactite_and_Stalagmite_combo_large
+    6400200: port_Stalactite_and_Stalagmite_combo_small
+    6400202: port_Stalactite_large
+    6400204: port_Stalactite_small
+    6400206: port_Stalagmite_large
+    6400208: port_Stalagmite_small
+    6400210: //RootNode
+    9500000: //RootNode
+    11400000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 1
+    addColliders: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
